@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import csv
 import requests 
-import pandas
+import pandas as pd
 
 URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&output=xml&CIK="
 
@@ -10,14 +10,32 @@ def load_csv(path, delimiter):
     return df
 
 russel_1000 = load_csv("russel_1000.csv", "|")
+# print(russel_1000)
+error = []
+with open('r_1000.csv', 'w', newline='') as csvfile:
+    tick_writer = csv.writer(csvfile, delimiter='|')
 
-with open('russel_1000.csv', 'w', newline='') as csvfile:
-    tick_writer = csv.writer(csvfile, delimiter='||',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
-    for ticker in russel_1000["Ticker"]:
-        r = requests.get(URL + ticker) 
+    for i, row in russel_1000.iterrows():
+        # print(ticker)
+        ticker = row[1].replace(".", "")
+        name = row[0]
+        
+        r = requests.get(URL + ticker)
 
         tutorial_soup = BeautifulSoup(r.content, 'lxml')
-        name = tutorial_soup.find("name").get_text()
-        sic = tutorial_soup.find("sic").get_text()
+
+        if tutorial_soup.find("name") == None:
+            print(ticker + " : error")
+            error.append(ticker)
+            continue
+        # name = tutorial_soup.find("name").get_text()
+        if tutorial_soup.find("sic") == None:
+            sic = None
+        else:
+            sic = tutorial_soup.find("sic").get_text()
+
         cik = tutorial_soup.find("cik").get_text()
+        print([ticker, name, cik, sic])
+        tick_writer.writerow([ticker, name, cik, sic])
+
+print("Errors : " + error)
