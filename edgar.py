@@ -5,6 +5,8 @@ import pandas as pd
 from SECEdgar.filings import Filing, FilingType
 import os, sys
 from util import load_csv, load_txt_file, remove_extra_data
+import time
+
 FILING_SEARCH_START = "FILED AS OF DATE:"
 FILING_SEARCH_END = "DATE AS OF CHANGE:"
 
@@ -40,7 +42,7 @@ def get_cik_from_ticker(df):
 
 
 
-def add_ticker_info_to_db(path, db_path, ticker, filing_type):
+def add_ticker_info_to_db(path, db_path, ticker, filing_type, name):
     files = os.listdir(path)
 
     with open(db_path, 'w', newline='') as file:
@@ -53,18 +55,26 @@ def add_ticker_info_to_db(path, db_path, ticker, filing_type):
             data = load_txt_file(path, f)
             filing_date = data[data.find(FILING_SEARCH_START) + len(FILING_SEARCH_START) : data.find(FILING_SEARCH_END)]
             filing_date = filing_date.strip()
-            writer.writerow([ticker, filing_type, year, filing_date, file_path])
+            writer.writerow([ticker, name, filing_type, year, filing_date, file_path])
 
 # remove_extra_data('data/' + "AAPL" + "/", "10-K", 2018)
-def get_10k_from_cik(cik_ticker_list, year, db_path):
-    for cik, ticker in cik_ticker_list:
-        print(ticker)
-        my_filings = Filing(cik, filing_type=FilingType.FILING_10K, count = 2)
-        my_filings.save('data/SEC/10-k/' + ticker + "/")
-        remove_extra_data('data/SEC/10-k/' + ticker, "10-k")
-        add_ticker_info_to_db('data/SEC/10-k/' + ticker, db_path, ticker, "1O-k")
+error_list = []
+def get_10k_from_cik(df, year, db_path):
+    for row in df.itertuples():
+        ticker = row.Ticker
+
+        try:
+            name = row.Name
+            print(ticker)
+            my_filings = Filing(row.CIK, filing_type=FilingType.FILING_10K, count = 2)
+            my_filings.save('data/SEC/10-k/' + ticker + "/")
+            remove_extra_data('data/SEC/10-k/' + ticker, "10-k")
+            add_ticker_info_to_db('data/SEC/10-k/' + ticker, db_path, ticker, "1O-k", name)
+        except:
+            error_list.append(ticker)
+            print("Error : " + ticker)
+        time.sleep(2)
         # break
-
-add_ticker_info_to_db('data/SEC/10-k/' + "AAPL", "data/sec_filing_date.csv", "AAPL", "1O-k")
-
-# get_10k_from_cik([("0000320193", "AAPL")], 18, "data/sec_filing_date.csv")
+print(error_list)
+df = load_csv("r_1000.csv", "|")
+get_10k_from_cik(df, 18, "data/sec_filing_date.csv")
