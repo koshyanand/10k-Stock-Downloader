@@ -1,0 +1,826 @@
+TWOU|2U|1O-k|18|20180227|data/SEC/10-k/TWOU/sec_10k_18.txt
+MMM|3M|1O-k|18|20180208|data/SEC/10-k/MMM/sec_10k_18.txt
+ABT|Abbott Laboratories|1O-k|18|20180216|data/SEC/10-k/ABT/sec_10k_18.txt
+ABBV|AbbVie Inc.|1O-k|18|20180216|data/SEC/10-k/ABBV/sec_10k_18.txt
+ABMD|Abiomed|1O-k|18|20180524|data/SEC/10-k/ABMD/sec_10k_18.txt
+ACHC|Acadia Healthcare|1O-k|18|20180227|data/SEC/10-k/ACHC/sec_10k_18.txt
+ACN|Accenture|1O-k|18|20181024|data/SEC/10-k/ACN/sec_10k_18.txt
+ATVI|Activision Blizzard|1O-k|18|20180227|data/SEC/10-k/ATVI/sec_10k_18.txt
+AYI|Acuity Brands|1O-k|18|20181025|data/SEC/10-k/AYI/sec_10k_18.txt
+ADT|ADT Inc.|1O-k|18|20180315|data/SEC/10-k/ADT/sec_10k_18.txt
+AAP|Advance Auto Parts|1O-k|18|20180221|data/SEC/10-k/AAP/sec_10k_18.txt
+ACM|AECOM|1O-k|18|20181113|data/SEC/10-k/ACM/sec_10k_18.txt
+AES|AES Corporation|1O-k|18|20180227|data/SEC/10-k/AES/sec_10k_18.txt
+AFL|Aflac|1O-k|18|20180223|data/SEC/10-k/AFL/sec_10k_18.txt
+AGCO|AGCO|1O-k|18|20180228|data/SEC/10-k/AGCO/sec_10k_18.txt
+A|Agilent Technologies|1O-k|18|20181220|data/SEC/10-k/A/sec_10k_18.txt
+AGIO|Agios Pharmaceuticals|1O-k|18|20180214|data/SEC/10-k/AGIO/sec_10k_18.txt
+AGNC|American Capital Agency|1O-k|18|20180226|data/SEC/10-k/AGNC/sec_10k_18.txt
+AL|Air Lease Corporation|1O-k|18|20180222|data/SEC/10-k/AL/sec_10k_18.txt
+APD|Air Products & Chemicals|1O-k|18|20181120|data/SEC/10-k/APD/sec_10k_18.txt
+AKAM|Akamai Technologies|1O-k|18|20180301|data/SEC/10-k/AKAM/sec_10k_18.txt
+ALK|Alaska Air Group|1O-k|18|20180215|data/SEC/10-k/ALK/sec_10k_18.txt
+ALB|Albemarle Corporation|1O-k|18|20180228|data/SEC/10-k/ALB/sec_10k_18.txt
+AA|Alcoa|1O-k|18|20180226|data/SEC/10-k/AA/sec_10k_18.txt
+ALGN|Align Technology|1O-k|18|20180228|data/SEC/10-k/ALGN/sec_10k_18.txt
+ALKS|Alkermes|1O-k|18|20180216|data/SEC/10-k/ALKS/sec_10k_18.txt
+Y|Alleghany Corporation|1O-k|18|20180221|data/SEC/10-k/Y/sec_10k_18.txt
+ALLE|Allegion|1O-k|18|20180220|data/SEC/10-k/ALLE/sec_10k_18.txt
+AGN|Allergan|1O-k|18|20180216|data/SEC/10-k/AGN/sec_10k_18.txt
+ADS|Alliance Data Systems|1O-k|18|20180227|data/SEC/10-k/ADS/sec_10k_18.txt
+LNT|Alliant Energy|1O-k|18|20180223|data/SEC/10-k/LNT/sec_10k_18.txt
+ALSN|Allison Transmission|1O-k|18|20180215|data/SEC/10-k/ALSN/sec_10k_18.txt
+ALL|Allstate|1O-k|18|20180226|data/SEC/10-k/ALL/sec_10k_18.txt
+ALLY|Ally Financial|1O-k|18|20180221|data/SEC/10-k/ALLY/sec_10k_18.txt
+ALNY|Alnylam Pharmaceuticals|1O-k|18|20180215|data/SEC/10-k/ALNY/sec_10k_18.txt
+AMCX|AMC Networks|1O-k|18|20180301|data/SEC/10-k/AMCX/sec_10k_18.txt
+UHAL|AMERCO|1O-k|18|20180530|data/SEC/10-k/UHAL/sec_10k_18.txt
+AEE|Ameren|1O-k|18|20180228|data/SEC/10-k/AEE/sec_10k_18.txt
+AAL|American Airlines|1O-k|18|20180221|data/SEC/10-k/AAL/sec_10k_18.txt
+ACC|American Campus Communities|1O-k|18|20180301|data/SEC/10-k/ACC/sec_10k_18.txt
+AEP|American Electric Power|1O-k|18|20180223|data/SEC/10-k/AEP/sec_10k_18.txt
+AXP|American Express|1O-k|18|20180216|data/SEC/10-k/AXP/sec_10k_18.txt
+AFG|American Financial Group|1O-k|18|20180223|data/SEC/10-k/AFG/sec_10k_18.txt
+AMH|American Homes 4 Rent|1O-k|18|20180223|data/SEC/10-k/AMH/sec_10k_18.txt
+AIG|American International Group|1O-k|18|20180216|data/SEC/10-k/AIG/sec_10k_18.txt
+ANAT|American National Insurance Company|1O-k|18|20180228|data/SEC/10-k/ANAT/sec_10k_18.txt
+AMT|American Tower|1O-k|18|20180228|data/SEC/10-k/AMT/sec_10k_18.txt
+AWK|American Water Works|1O-k|18|20180220|data/SEC/10-k/AWK/sec_10k_18.txt
+AMP|Ameriprise Financial|1O-k|18|20180223|data/SEC/10-k/AMP/sec_10k_18.txt
+AME|Ametek|1O-k|18|20180222|data/SEC/10-k/AME/sec_10k_18.txt
+AMGN|Amgen|1O-k|18|20180213|data/SEC/10-k/AMGN/sec_10k_18.txt
+APH|Amphenol|1O-k|18|20180221|data/SEC/10-k/APH/sec_10k_18.txt
+ADI|Analog Devices|1O-k|18|20181127|data/SEC/10-k/ADI/sec_10k_18.txt
+NLY|Annaly Capital Management|1O-k|18|20180216|data/SEC/10-k/NLY/sec_10k_18.txt
+ANSS|Ansys|1O-k|18|20180222|data/SEC/10-k/ANSS/sec_10k_18.txt
+AR|Antero Resources|1O-k|18|20180213|data/SEC/10-k/AR/sec_10k_18.txt
+ANTM|Anthem|1O-k|18|20180221|data/SEC/10-k/ANTM/sec_10k_18.txt
+AON|AON|1O-k|18|20180220|data/SEC/10-k/AON/sec_10k_18.txt
+APA|Apache Corporation|1O-k|18|20180223|data/SEC/10-k/APA/sec_10k_18.txt
+AIV|Aimco|1O-k|18|20180301|data/SEC/10-k/AIV/sec_10k_18.txt
+AAPL|Apple Inc.|1O-k|18|20181105|data/SEC/10-k/AAPL/sec_10k_18.txt
+AMAT|Applied Materials|1O-k|18|20181213|data/SEC/10-k/AMAT/sec_10k_18.txt
+ATR|Aptargroup|1O-k|18|20180226|data/SEC/10-k/ATR/sec_10k_18.txt
+WTR|Aqua America|1O-k|18|20180228|data/SEC/10-k/WTR/sec_10k_18.txt
+ARMK|Aramark|1O-k|18|20181121|data/SEC/10-k/ARMK/sec_10k_18.txt
+ACGL|Arch Capital Group|1O-k|18|20180228|data/SEC/10-k/ACGL/sec_10k_18.txt
+ADM|Archer Daniels Midland|1O-k|18|20180216|data/SEC/10-k/ADM/sec_10k_18.txt
+ARNC|Arconic|1O-k|18|20180226|data/SEC/10-k/ARNC/sec_10k_18.txt
+ANET|Arista Networks|1O-k|18|20180220|data/SEC/10-k/ANET/sec_10k_18.txt
+ARW|Arrow Electronics|1O-k|18|20180206|data/SEC/10-k/ARW/sec_10k_18.txt
+ASH|Ashland Inc.|1O-k|18|20181119|data/SEC/10-k/ASH/sec_10k_18.txt
+AZPN|Aspen Technology|1O-k|18|20180808|data/SEC/10-k/AZPN/sec_10k_18.txt
+ASB|Associated Banc-Corp|1O-k|18|20180206|data/SEC/10-k/ASB/sec_10k_18.txt
+AIZ|Assurant|1O-k|18|20180214|data/SEC/10-k/AIZ/sec_10k_18.txt
+AGO|Assured Guaranty|1O-k|18|20180223|data/SEC/10-k/AGO/sec_10k_18.txt
+T|AT&T|1O-k|18|20180220|data/SEC/10-k/T/sec_10k_18.txt
+ATH|Athene Holding|1O-k|18|20180226|data/SEC/10-k/ATH/sec_10k_18.txt
+ATO|Atmos Energy|1O-k|18|20181113|data/SEC/10-k/ATO/sec_10k_18.txt
+ADSK|Autodesk|1O-k|18|20180322|data/SEC/10-k/ADSK/sec_10k_18.txt
+ADP|Automatic Data Processing|1O-k|18|20180803|data/SEC/10-k/ADP/sec_10k_18.txt
+AZO|AutoZone|1O-k|18|20181024|data/SEC/10-k/AZO/sec_10k_18.txt
+AGR|Avangrid|1O-k|18|20180326|data/SEC/10-k/AGR/sec_10k_18.txt
+AVY|Avery Dennison|1O-k|18|20180221|data/SEC/10-k/AVY/sec_10k_18.txt
+AVT|Avnet|1O-k|18|20180817|data/SEC/10-k/AVT/sec_10k_18.txt
+AXTA|Axalta Coating Systems|1O-k|18|20180222|data/SEC/10-k/AXTA/sec_10k_18.txt
+AXS|AXIS Capital|1O-k|18|20180228|data/SEC/10-k/AXS/sec_10k_18.txt
+BKR|Baker Hughes|1O-k|18|20180223|data/SEC/10-k/BKR/sec_10k_18.txt
+BLL|Ball Corporation|1O-k|18|20180301|data/SEC/10-k/BLL/sec_10k_18.txt
+BAC|Bank of America|1O-k|18|20180222|data/SEC/10-k/BAC/sec_10k_18.txt
+BOH|Bank of Hawaii|1O-k|18|20180228|data/SEC/10-k/BOH/sec_10k_18.txt
+BK|Bank of New York Mellon|1O-k|18|20180228|data/SEC/10-k/BK/sec_10k_18.txt
+BKU|BankUnited|1O-k|18|20180301|data/SEC/10-k/BKU/sec_10k_18.txt
+BAX|Baxter International|1O-k|18|20180223|data/SEC/10-k/BAX/sec_10k_18.txt
+BDX|Becton Dickinson|1O-k|18|20181121|data/SEC/10-k/BDX/sec_10k_18.txt
+WRB|W. R. Berkley Corporation|1O-k|18|20180223|data/SEC/10-k/WRB/sec_10k_18.txt
+BRKB|Berkshire Hathaway|1O-k|18|20180226|data/SEC/10-k/BRKB/sec_10k_18.txt
+BERY|Berry Global|1O-k|18|20181116|data/SEC/10-k/BERY/sec_10k_18.txt
+BBY|Best Buy|1O-k|18|20180402|data/SEC/10-k/BBY/sec_10k_18.txt
+BGCP|BGC Partners|1O-k|18|20180222|data/SEC/10-k/BGCP/sec_10k_18.txt
+BIIB|Biogen|1O-k|18|20180201|data/SEC/10-k/BIIB/sec_10k_18.txt
+BMRN|BioMarin Pharmaceutical|1O-k|18|20180226|data/SEC/10-k/BMRN/sec_10k_18.txt
+BIO|Bio-Rad Laboratories|1O-k|18|20180426|data/SEC/10-k/BIO/sec_10k_18.txt
+BKI|Black Knight|1O-k|18|20180426|data/SEC/10-k/BKI/sec_10k_18.txt
+BLK|BlackRock|1O-k|18|20180228|data/SEC/10-k/BLK/sec_10k_18.txt
+HRB|H&R Block|1O-k|18|20180615|data/SEC/10-k/HRB/sec_10k_18.txt
+BLUE|Bluebird Bio|1O-k|18|20180221|data/SEC/10-k/BLUE/sec_10k_18.txt
+BOKF|BOK Financial Corporation|1O-k|18|20180227|data/SEC/10-k/BOKF/sec_10k_18.txt
+BKNG|Booking Holdings|1O-k|18|20180227|data/SEC/10-k/BKNG/sec_10k_18.txt
+BAH|Booz Allen Hamilton|1O-k|18|20180529|data/SEC/10-k/BAH/sec_10k_18.txt
+BWA|BorgWarner|1O-k|18|20180928|data/SEC/10-k/BWA/sec_10k_18.txt
+BSX|Boston Scientific|1O-k|18|20180220|data/SEC/10-k/BSX/sec_10k_18.txt
+BDN|Brandywine Realty Trust|1O-k|18|20180223|data/SEC/10-k/BDN/sec_10k_18.txt
+BFAM|Bright Horizons Family Solutions|1O-k|18|20180228|data/SEC/10-k/BFAM/sec_10k_18.txt
+BHF|Brighthouse Financial|1O-k|18|20180316|data/SEC/10-k/BHF/sec_10k_18.txt
+BMY|Bristol-Myers Squibb|1O-k|18|20180213|data/SEC/10-k/BMY/sec_10k_18.txt
+BRX|Brixmor Property Group|1O-k|18|20180212|data/SEC/10-k/BRX/sec_10k_18.txt
+AVGO|Broadcom Corporation|1O-k|18|20181221|data/SEC/10-k/AVGO/sec_10k_18.txt
+BR|Broadridge Financial Solutions|1O-k|18|20180807|data/SEC/10-k/BR/sec_10k_18.txt
+BPR|Brookfield Properties Retail Group|1O-k|18|20180222|data/SEC/10-k/BPR/sec_10k_18.txt
+BRO|Brown & Brown|1O-k|18|20180228|data/SEC/10-k/BRO/sec_10k_18.txt
+BFA|Brown–Forman Class A|1O-k|18|20180613|data/SEC/10-k/BFA/sec_10k_18.txt
+BFB|Brown–Forman Class B|1O-k|18|20180613|data/SEC/10-k/BFB/sec_10k_18.txt
+BRKR|Bruker|1O-k|18|20180316|data/SEC/10-k/BRKR/sec_10k_18.txt
+BC|Brunswick|1O-k|18|20180220|data/SEC/10-k/BC/sec_10k_18.txt
+BG|Bunge Limited|1O-k|18|20180223|data/SEC/10-k/BG/sec_10k_18.txt
+BURL|Burlington Stores|1O-k|18|20180320|data/SEC/10-k/BURL/sec_10k_18.txt
+BWXT|BWX Technologies|1O-k|18|20180227|data/SEC/10-k/BWXT/sec_10k_18.txt
+CHRW|C. H. Robinson|1O-k|18|20180228|data/SEC/10-k/CHRW/sec_10k_18.txt
+CABO|Cable One|1O-k|18|20180301|data/SEC/10-k/CABO/sec_10k_18.txt
+CBT|Cabot Corporation|1O-k|18|20181121|data/SEC/10-k/CBT/sec_10k_18.txt
+COG|Cabot Oil & Gas|1O-k|18|20180302|data/SEC/10-k/COG/sec_10k_18.txt
+CACI|CACI|1O-k|18|20180820|data/SEC/10-k/CACI/sec_10k_18.txt
+CDNS|Cadence Design Systems|1O-k|18|20180220|data/SEC/10-k/CDNS/sec_10k_18.txt
+CPT|Camden Property Trust|1O-k|18|20180216|data/SEC/10-k/CPT/sec_10k_18.txt
+CPB|Campbell Soup|1O-k|18|20180927|data/SEC/10-k/CPB/sec_10k_18.txt
+CMD|Cantel Medical Corporation|1O-k|18|20180927|data/SEC/10-k/CMD/sec_10k_18.txt
+COF|Capital One Financial|1O-k|18|20180221|data/SEC/10-k/COF/sec_10k_18.txt
+CAH|Cardinal Health|1O-k|18|20180822|data/SEC/10-k/CAH/sec_10k_18.txt
+CSL|Carlisle Companies|1O-k|18|20180216|data/SEC/10-k/CSL/sec_10k_18.txt
+KMX|CarMax|1O-k|18|20180424|data/SEC/10-k/KMX/sec_10k_18.txt
+CRI|Carter's|1O-k|18|20180227|data/SEC/10-k/CRI/sec_10k_18.txt
+CASY|Casey's General Stores|1O-k|18|20180629|data/SEC/10-k/CASY/sec_10k_18.txt
+CTLT|Catalent|1O-k|18|20180828|data/SEC/10-k/CTLT/sec_10k_18.txt
+CAT|Caterpillar|1O-k|18|20180215|data/SEC/10-k/CAT/sec_10k_18.txt
+CBOE|Cboe Global Markets|1O-k|18|20180222|data/SEC/10-k/CBOE/sec_10k_18.txt
+CBRE|CBRE Group|1O-k|18|20180301|data/SEC/10-k/CBRE/sec_10k_18.txt
+CDK|CDK Global|1O-k|18|20180814|data/SEC/10-k/CDK/sec_10k_18.txt
+CDW|CDW Corporation|1O-k|18|20180301|data/SEC/10-k/CDW/sec_10k_18.txt
+CE|Celanese|1O-k|18|20180209|data/SEC/10-k/CE/sec_10k_18.txt
+CNC|Centene|1O-k|18|20180220|data/SEC/10-k/CNC/sec_10k_18.txt
+CDEV|Centennial Resource Development|1O-k|18|20180226|data/SEC/10-k/CDEV/sec_10k_18.txt
+CNP|Centerpoint Energy|1O-k|18|20180222|data/SEC/10-k/CNP/sec_10k_18.txt
+CTL|CenturyLink|1O-k|18|20180301|data/SEC/10-k/CTL/sec_10k_18.txt
+BXP|Boston Properties|1O-k|18|20180228|data/SEC/10-k/BXP/sec_10k_18.txt
+CF|CF Industries Holdings|1O-k|18|20180222|data/SEC/10-k/CF/sec_10k_18.txt
+CRL|Charles River Laboratories|1O-k|18|20180213|data/SEC/10-k/CRL/sec_10k_18.txt
+CHE|Chemed Corporation|1O-k|18|20180226|data/SEC/10-k/CHE/sec_10k_18.txt
+LNG|Cheniere Energy|1O-k|18|20180430|data/SEC/10-k/LNG/sec_10k_18.txt
+CHK|Chesapeake Energy|1O-k|18|20180222|data/SEC/10-k/CHK/sec_10k_18.txt
+CVX|Chevron Corporation|1O-k|18|20180222|data/SEC/10-k/CVX/sec_10k_18.txt
+CIM|Chimera Investment|1O-k|18|20180220|data/SEC/10-k/CIM/sec_10k_18.txt
+CHH|Choice Hotels|1O-k|18|20180301|data/SEC/10-k/CHH/sec_10k_18.txt
+CB|Chubb Limited|1O-k|18|20180223|data/SEC/10-k/CB/sec_10k_18.txt
+CHD|Church & Dwight|1O-k|18|20180223|data/SEC/10-k/CHD/sec_10k_18.txt
+XEC|Cimarex Energy|1O-k|18|20180223|data/SEC/10-k/XEC/sec_10k_18.txt
+CINF|Cincinnati Financial|1O-k|18|20180223|data/SEC/10-k/CINF/sec_10k_18.txt
+CNK|Cinemark Holdings|1O-k|18|20180223|data/SEC/10-k/CNK/sec_10k_18.txt
+CTAS|Cintas|1O-k|18|20180727|data/SEC/10-k/CTAS/sec_10k_18.txt
+CSCO|Cisco Systems|1O-k|18|20180906|data/SEC/10-k/CSCO/sec_10k_18.txt
+CIT|CIT Group|1O-k|18|20180223|data/SEC/10-k/CIT/sec_10k_18.txt
+C|Citigroup|1O-k|18|20180223|data/SEC/10-k/C/sec_10k_18.txt
+CFG|Citizens Financial Group|1O-k|18|20180301|data/SEC/10-k/CFG/sec_10k_18.txt
+CTXS|Citrix Systems|1O-k|18|20180216|data/SEC/10-k/CTXS/sec_10k_18.txt
+CLH|Clean Harbors|1O-k|18|20180228|data/SEC/10-k/CLH/sec_10k_18.txt
+CLX|Clorox|1O-k|18|20180814|data/SEC/10-k/CLX/sec_10k_18.txt
+CME|CME Group|1O-k|18|20180301|data/SEC/10-k/CME/sec_10k_18.txt
+CNA|CNA Financial|1O-k|18|20180214|data/SEC/10-k/CNA/sec_10k_18.txt
+CNX|CNX Resources|1O-k|18|20180207|data/SEC/10-k/CNX/sec_10k_18.txt
+KO|Coca-Cola|1O-k|18|20180223|data/SEC/10-k/KO/sec_10k_18.txt
+CGNX|Cognex Corporation|1O-k|18|20180215|data/SEC/10-k/CGNX/sec_10k_18.txt
+CTSH|Cognizant|1O-k|18|20180227|data/SEC/10-k/CTSH/sec_10k_18.txt
+CFX|Colfax Corporation|1O-k|18|20180216|data/SEC/10-k/CFX/sec_10k_18.txt
+CL|Colgate Palmolive|1O-k|18|20180221|data/SEC/10-k/CL/sec_10k_18.txt
+CLNY|Colony Capital|1O-k|18|20180301|data/SEC/10-k/CLNY/sec_10k_18.txt
+CXP|Columbia Property Trust|1O-k|18|20180215|data/SEC/10-k/CXP/sec_10k_18.txt
+COLM|Columbia Sportswear|1O-k|18|20180222|data/SEC/10-k/COLM/sec_10k_18.txt
+CMA|Comerica|1O-k|18|20180215|data/SEC/10-k/CMA/sec_10k_18.txt
+CBSH|Commerce Bancshares|1O-k|18|20180222|data/SEC/10-k/CBSH/sec_10k_18.txt
+CAG|Conagra Brands|1O-k|18|20180720|data/SEC/10-k/CAG/sec_10k_18.txt
+CXO|Concho Resources|1O-k|18|20180221|data/SEC/10-k/CXO/sec_10k_18.txt
+CNDT|Conduent|1O-k|18|20180301|data/SEC/10-k/CNDT/sec_10k_18.txt
+COP|ConocoPhillips|1O-k|18|20180220|data/SEC/10-k/COP/sec_10k_18.txt
+ED|Consolidated Edison|1O-k|18|20180215|data/SEC/10-k/ED/sec_10k_18.txt
+STZ|Constellation Brands|1O-k|18|20180423|data/SEC/10-k/STZ/sec_10k_18.txt
+CERN|Cerner|1O-k|18|20180212|data/SEC/10-k/CERN/sec_10k_18.txt
+CPRT|Copart|1O-k|18|20181001|data/SEC/10-k/CPRT/sec_10k_18.txt
+CLGX|Corelogic|1O-k|18|20180227|data/SEC/10-k/CLGX/sec_10k_18.txt
+COR|CoreSite|1O-k|18|20180209|data/SEC/10-k/COR/sec_10k_18.txt
+GLW|Corning Inc.|1O-k|18|20180215|data/SEC/10-k/GLW/sec_10k_18.txt
+OFC|Corporate Office Properties Trust|1O-k|18|20180216|data/SEC/10-k/OFC/sec_10k_18.txt
+CSGP|CoStar Group|1O-k|18|20180223|data/SEC/10-k/CSGP/sec_10k_18.txt
+COST|Costco Wholesale|1O-k|18|20181026|data/SEC/10-k/COST/sec_10k_18.txt
+COTY|Coty, Inc.|1O-k|18|20180821|data/SEC/10-k/COTY/sec_10k_18.txt
+CR|Crane Co.|1O-k|18|20180227|data/SEC/10-k/CR/sec_10k_18.txt
+CACC|Credit Acceptance|1O-k|18|20180209|data/SEC/10-k/CACC/sec_10k_18.txt
+CCI|Crown Castle|1O-k|18|20180226|data/SEC/10-k/CCI/sec_10k_18.txt
+CCK|Crown Holdings|1O-k|18|20180226|data/SEC/10-k/CCK/sec_10k_18.txt
+CSX|CSX|1O-k|18|20180207|data/SEC/10-k/CSX/sec_10k_18.txt
+CUBE|CubeSmart|1O-k|18|20180216|data/SEC/10-k/CUBE/sec_10k_18.txt
+CMI|Cummins|1O-k|18|20180214|data/SEC/10-k/CMI/sec_10k_18.txt
+CW|Curtiss-Wright|1O-k|18|20180222|data/SEC/10-k/CW/sec_10k_18.txt
+CVS|CVS Health|1O-k|18|20180214|data/SEC/10-k/CVS/sec_10k_18.txt
+CY|Cypress Semiconductor|1O-k|18|20180226|data/SEC/10-k/CY/sec_10k_18.txt
+DHI|D. R. Horton|1O-k|18|20181116|data/SEC/10-k/DHI/sec_10k_18.txt
+DHR|Danaher Corporation|1O-k|18|20180221|data/SEC/10-k/DHR/sec_10k_18.txt
+DRI|Darden Restaurants|1O-k|18|20180720|data/SEC/10-k/DRI/sec_10k_18.txt
+DVA|DaVita Inc.|1O-k|18|20180223|data/SEC/10-k/DVA/sec_10k_18.txt
+SITC|SITE Centers|1O-k|18|20180226|data/SEC/10-k/SITC/sec_10k_18.txt
+DE|John Deere|1O-k|18|20181217|data/SEC/10-k/DE/sec_10k_18.txt
+DELL|Dell Technologies|1O-k|18|20180329|data/SEC/10-k/DELL/sec_10k_18.txt
+DAL|Delta Air Lines|1O-k|18|20180223|data/SEC/10-k/DAL/sec_10k_18.txt
+XRAY|Dentsply Sirona|1O-k|18|20180315|data/SEC/10-k/XRAY/sec_10k_18.txt
+DVN|Devon Energy|1O-k|18|20180221|data/SEC/10-k/DVN/sec_10k_18.txt
+DXCM|Dexcom|1O-k|18|20180227|data/SEC/10-k/DXCM/sec_10k_18.txt
+DKS|Dick's Sporting Goods|1O-k|18|20180330|data/SEC/10-k/DKS/sec_10k_18.txt
+DLR|Digital Realty Trust|1O-k|18|20180301|data/SEC/10-k/DLR/sec_10k_18.txt
+DFS|Discover Financial|1O-k|18|20180221|data/SEC/10-k/DFS/sec_10k_18.txt
+DISCA|Discovery, Inc. Series A|1O-k|18|20180228|data/SEC/10-k/DISCA/sec_10k_18.txt
+DISCK|Discovery, Inc. Series C|1O-k|18|20180228|data/SEC/10-k/DISCK/sec_10k_18.txt
+DISH|Dish Network|1O-k|18|20180221|data/SEC/10-k/DISH/sec_10k_18.txt
+DG|Dollar General|1O-k|18|20180323|data/SEC/10-k/DG/sec_10k_18.txt
+DLTR|Dollar Tree|1O-k|18|20180326|data/SEC/10-k/DLTR/sec_10k_18.txt
+D|Dominion Energy|1O-k|18|20180227|data/SEC/10-k/D/sec_10k_18.txt
+DPZ|Domino's Pizza|1O-k|18|20180220|data/SEC/10-k/DPZ/sec_10k_18.txt
+COO|The Cooper Companies|1O-k|18|20181221|data/SEC/10-k/COO/sec_10k_18.txt
+DEI|Douglas Emmett|1O-k|18|20180216|data/SEC/10-k/DEI/sec_10k_18.txt
+DOV|Dover Corporation|1O-k|18|20180216|data/SEC/10-k/DOV/sec_10k_18.txt
+DD|DuPont|1O-k|18|20180215|data/SEC/10-k/DD/sec_10k_18.txt
+DUK|Duke Energy|1O-k|18|20180223|data/SEC/10-k/DUK/sec_10k_18.txt
+DRE|Duke Realty|1O-k|18|20180216|data/SEC/10-k/DRE/sec_10k_18.txt
+DNB|Dun & Bradstreet|1O-k|18|20180222|data/SEC/10-k/DNB/sec_10k_18.txt
+DNKN|Dunkin' Brands|1O-k|18|20180226|data/SEC/10-k/DNKN/sec_10k_18.txt
+DXC|DXC Technology|1O-k|18|20180529|data/SEC/10-k/DXC/sec_10k_18.txt
+EXP|Eagle Materials|1O-k|18|20180523|data/SEC/10-k/EXP/sec_10k_18.txt
+EWBC|East West Bancorp|1O-k|18|20180227|data/SEC/10-k/EWBC/sec_10k_18.txt
+EMN|Eastman Chemical|1O-k|18|20180301|data/SEC/10-k/EMN/sec_10k_18.txt
+ETN|Eaton Corporation|1O-k|18|20180228|data/SEC/10-k/ETN/sec_10k_18.txt
+EV|Eaton Vance|1O-k|18|20181228|data/SEC/10-k/EV/sec_10k_18.txt
+ECL|Ecolab|1O-k|18|20180223|data/SEC/10-k/ECL/sec_10k_18.txt
+EIX|Edison International|1O-k|18|20180222|data/SEC/10-k/EIX/sec_10k_18.txt
+EW|Edwards Lifesciences|1O-k|18|20180216|data/SEC/10-k/EW/sec_10k_18.txt
+EA|Electronic Arts|1O-k|18|20180523|data/SEC/10-k/EA/sec_10k_18.txt
+EMR|Emerson Electric|1O-k|18|20181119|data/SEC/10-k/EMR/sec_10k_18.txt
+ESRT|Empire State Realty|1O-k|18|20180228|data/SEC/10-k/ESRT/sec_10k_18.txt
+EHC|Encompass Health|1O-k|18|20180228|data/SEC/10-k/EHC/sec_10k_18.txt
+EGN|Energen|1O-k|18|20180228|data/SEC/10-k/EGN/sec_10k_18.txt
+ENR|Energizer Holdings|1O-k|18|20181116|data/SEC/10-k/ENR/sec_10k_18.txt
+ETR|Entergy|1O-k|18|20180226|data/SEC/10-k/ETR/sec_10k_18.txt
+EVHC|Envision Healthcare|1O-k|18|20180430|data/SEC/10-k/EVHC/sec_10k_18.txt
+EOG|EOG Resources|1O-k|18|20180227|data/SEC/10-k/EOG/sec_10k_18.txt
+EPAM|EPAM Systems|1O-k|18|20180227|data/SEC/10-k/EPAM/sec_10k_18.txt
+EPR|EPR Properties|1O-k|18|20180301|data/SEC/10-k/EPR/sec_10k_18.txt
+EFX|Equifax|1O-k|18|20180301|data/SEC/10-k/EFX/sec_10k_18.txt
+EQIX|Equinix|1O-k|18|20180226|data/SEC/10-k/EQIX/sec_10k_18.txt
+EQC|Equity Commonwealth|1O-k|18|20180215|data/SEC/10-k/EQC/sec_10k_18.txt
+ELS|Equity Lifestyle Properties|1O-k|18|20180228|data/SEC/10-k/ELS/sec_10k_18.txt
+EQR|Equity Residential|1O-k|18|20180222|data/SEC/10-k/EQR/sec_10k_18.txt
+ERIE|Erie Indemnity|1O-k|18|20180222|data/SEC/10-k/ERIE/sec_10k_18.txt
+ESS|Essex Property Trust|1O-k|18|20180222|data/SEC/10-k/ESS/sec_10k_18.txt
+EL|Estee Lauder Companies|1O-k|18|20180824|data/SEC/10-k/EL/sec_10k_18.txt
+EEFT|Euronet Worldwide|1O-k|18|20180301|data/SEC/10-k/EEFT/sec_10k_18.txt
+EVR|Evercore|1O-k|18|20180223|data/SEC/10-k/EVR/sec_10k_18.txt
+RE|Everest Re|1O-k|18|20180301|data/SEC/10-k/RE/sec_10k_18.txt
+ES|Eversource Energy|1O-k|18|20180226|data/SEC/10-k/ES/sec_10k_18.txt
+UFS|Domtar Corporation|1O-k|18|20180223|data/SEC/10-k/UFS/sec_10k_18.txt
+DCI|Donaldson Company|1O-k|18|20181001|data/SEC/10-k/DCI/sec_10k_18.txt
+EXPD|Expeditors International|1O-k|18|20180223|data/SEC/10-k/EXPD/sec_10k_18.txt
+STAY|Extended Stay America|1O-k|18|20180227|data/SEC/10-k/STAY/sec_10k_18.txt
+EXR|Extra Space Storage|1O-k|18|20180301|data/SEC/10-k/EXR/sec_10k_18.txt
+XOG|Extraction Oil & Gas|1O-k|18|20180514|data/SEC/10-k/XOG/sec_10k_18.txt
+XOM|ExxonMobil|1O-k|18|20180228|data/SEC/10-k/XOM/sec_10k_18.txt
+FFIV|F5 Networks|1O-k|18|20181121|data/SEC/10-k/FFIV/sec_10k_18.txt
+FDS|FactSet|1O-k|18|20181030|data/SEC/10-k/FDS/sec_10k_18.txt
+FICO|Fair Isaac|1O-k|18|20181109|data/SEC/10-k/FICO/sec_10k_18.txt
+FRT|Federal Realty Investment Trust|1O-k|18|20180213|data/SEC/10-k/FRT/sec_10k_18.txt
+FIS|FIS|1O-k|18|20180222|data/SEC/10-k/FIS/sec_10k_18.txt
+FITB|Fifth Third Bancorp|1O-k|18|20180228|data/SEC/10-k/FITB/sec_10k_18.txt
+FEYE|FireEye|1O-k|18|20180301|data/SEC/10-k/FEYE/sec_10k_18.txt
+FAF|First American Corporation|1O-k|18|20180216|data/SEC/10-k/FAF/sec_10k_18.txt
+FCNCA|First Citizens BancShares|1O-k|18|20180221|data/SEC/10-k/FCNCA/sec_10k_18.txt
+FDC|First Data Corporation|1O-k|18|20180221|data/SEC/10-k/FDC/sec_10k_18.txt
+FHB|First Hawaiian Bank|1O-k|18|20180228|data/SEC/10-k/FHB/sec_10k_18.txt
+FHN|First Horizon National Corporation|1O-k|18|20180228|data/SEC/10-k/FHN/sec_10k_18.txt
+FSLR|First Solar|1O-k|18|20180223|data/SEC/10-k/FSLR/sec_10k_18.txt
+FISV|Fiserv|1O-k|18|20180222|data/SEC/10-k/FISV/sec_10k_18.txt
+FLT|Fleetcor|1O-k|18|20180301|data/SEC/10-k/FLT/sec_10k_18.txt
+FLIR|Flir Systems|1O-k|18|20180223|data/SEC/10-k/FLIR/sec_10k_18.txt
+FND|Floor & Decor|1O-k|18|20180305|data/SEC/10-k/FND/sec_10k_18.txt
+FLO|Flowers Foods|1O-k|18|20180221|data/SEC/10-k/FLO/sec_10k_18.txt
+FLR|Fluor Corporation|1O-k|18|20180220|data/SEC/10-k/FLR/sec_10k_18.txt
+FMC|FMC Corporation|1O-k|18|20180228|data/SEC/10-k/FMC/sec_10k_18.txt
+FNB|FNB Corporation|1O-k|18|20180228|data/SEC/10-k/FNB/sec_10k_18.txt
+FNF|Fidelity National Financial|1O-k|18|20180426|data/SEC/10-k/FNF/sec_10k_18.txt
+FL|Foot Locker|1O-k|18|20180329|data/SEC/10-k/FL/sec_10k_18.txt
+FTNT|Fortinet|1O-k|18|20180430|data/SEC/10-k/FTNT/sec_10k_18.txt
+FTV|Fortive Corporation|1O-k|18|20180228|data/SEC/10-k/FTV/sec_10k_18.txt
+FBHS|Fortune Brands Home & Security|1O-k|18|20180228|data/SEC/10-k/FBHS/sec_10k_18.txt
+BEN|Franklin Resources|1O-k|18|20181109|data/SEC/10-k/BEN/sec_10k_18.txt
+FCX|Freeport-McMoRan|1O-k|18|20180220|data/SEC/10-k/FCX/sec_10k_18.txt
+AJG|Arthur J. Gallagher & Co.|1O-k|18|20180212|data/SEC/10-k/AJG/sec_10k_18.txt
+GLPI|Gaming and Leisure Properties|1O-k|18|20180504|data/SEC/10-k/GLPI/sec_10k_18.txt
+GPS|Gap Inc.|1O-k|18|20180320|data/SEC/10-k/GPS/sec_10k_18.txt
+EXAS|Exact Sciences|1O-k|18|20180222|data/SEC/10-k/EXAS/sec_10k_18.txt
+EXEL|Exelixis|1O-k|18|20180226|data/SEC/10-k/EXEL/sec_10k_18.txt
+EXC|Exelon|1O-k|18|20180209|data/SEC/10-k/EXC/sec_10k_18.txt
+GTES|Gates Corporation|1O-k|18|20180315|data/SEC/10-k/GTES/sec_10k_18.txt
+GLIBA|GCI Liberty|1O-k|18|20180228|data/SEC/10-k/GLIBA/sec_10k_18.txt
+GD|General Dynamics|1O-k|18|20180212|data/SEC/10-k/GD/sec_10k_18.txt
+GIS|General Mills|1O-k|18|20180629|data/SEC/10-k/GIS/sec_10k_18.txt
+GWR|Genesee & Wyoming|1O-k|18|20180228|data/SEC/10-k/GWR/sec_10k_18.txt
+G|Genpact|1O-k|18|20180301|data/SEC/10-k/G/sec_10k_18.txt
+GNTX|Gentex|1O-k|18|20180221|data/SEC/10-k/GNTX/sec_10k_18.txt
+GPN|Global Payments|1O-k|18|20180223|data/SEC/10-k/GPN/sec_10k_18.txt
+GDDY|GoDaddy|1O-k|18|20180227|data/SEC/10-k/GDDY/sec_10k_18.txt
+GS|Goldman Sachs|1O-k|18|20180226|data/SEC/10-k/GS/sec_10k_18.txt
+GT|Goodyear Tire & Rubber|1O-k|18|20180208|data/SEC/10-k/GT/sec_10k_18.txt
+GRA|W. R. Grace and Company|1O-k|18|20180222|data/SEC/10-k/GRA/sec_10k_18.txt
+GGG|Graco|1O-k|18|20180423|data/SEC/10-k/GGG/sec_10k_18.txt
+GHC|Graham Holdings Company|1O-k|18|20180223|data/SEC/10-k/GHC/sec_10k_18.txt
+GWW|W. W. Grainger|1O-k|18|20180226|data/SEC/10-k/GWW/sec_10k_18.txt
+LOPE|Grand Canyon Education|1O-k|18|20180221|data/SEC/10-k/LOPE/sec_10k_18.txt
+GPK|Graphic Packaging|1O-k|18|20180223|data/SEC/10-k/GPK/sec_10k_18.txt
+GRUB|Grubhub|1O-k|18|20180228|data/SEC/10-k/GRUB/sec_10k_18.txt
+HAIN|Hain Celestial|1O-k|18|20180829|data/SEC/10-k/HAIN/sec_10k_18.txt
+HAL|Halliburton|1O-k|18|20180209|data/SEC/10-k/HAL/sec_10k_18.txt
+HBI|Hanesbrands|1O-k|18|20180209|data/SEC/10-k/HBI/sec_10k_18.txt
+THG|Hanover Insurance|1O-k|18|20180227|data/SEC/10-k/THG/sec_10k_18.txt
+HOG|Harley Davidson|1O-k|18|20180221|data/SEC/10-k/HOG/sec_10k_18.txt
+HIG|The Hartford|1O-k|18|20180223|data/SEC/10-k/HIG/sec_10k_18.txt
+HAS|Hasbro|1O-k|18|20180226|data/SEC/10-k/HAS/sec_10k_18.txt
+HE|Hawaiian Electric Industries|1O-k|18|20180301|data/SEC/10-k/HE/sec_10k_18.txt
+HCA|HCA Healthcare|1O-k|18|20180223|data/SEC/10-k/HCA/sec_10k_18.txt
+HDS|HD Supply|1O-k|18|20180313|data/SEC/10-k/HDS/sec_10k_18.txt
+HTA|Healthcare Trust America|1O-k|18|20180220|data/SEC/10-k/HTA/sec_10k_18.txt
+HEIA|HEICO Class A|1O-k|18|20181220|data/SEC/10-k/HEIA/sec_10k_18.txt
+HEI|HEICO Common|1O-k|18|20181220|data/SEC/10-k/HEI/sec_10k_18.txt
+HP|Helmerich & Payne|1O-k|18|20181116|data/SEC/10-k/HP/sec_10k_18.txt
+JKHY|Jack Henry & Associates|1O-k|18|20180824|data/SEC/10-k/JKHY/sec_10k_18.txt
+HLF|Herbalife Nutrition|1O-k|18|20180222|data/SEC/10-k/HLF/sec_10k_18.txt
+HSY|Hershey Company|1O-k|18|20180227|data/SEC/10-k/HSY/sec_10k_18.txt
+HES|Hess Corporation|1O-k|18|20180221|data/SEC/10-k/HES/sec_10k_18.txt
+GDI|Gardner Denver|1O-k|18|20180216|data/SEC/10-k/GDI/sec_10k_18.txt
+GRMN|Garmin|1O-k|18|20180221|data/SEC/10-k/GRMN/sec_10k_18.txt
+IT|Gartner|1O-k|18|20180222|data/SEC/10-k/IT/sec_10k_18.txt
+HGV|Hilton Grand Vacations|1O-k|18|20180313|data/SEC/10-k/HGV/sec_10k_18.txt
+HLT|Hilton Worldwide|1O-k|18|20180214|data/SEC/10-k/HLT/sec_10k_18.txt
+HFC|HollyFrontier|1O-k|18|20180221|data/SEC/10-k/HFC/sec_10k_18.txt
+HOLX|Hologic|1O-k|18|20181120|data/SEC/10-k/HOLX/sec_10k_18.txt
+HD|Home Depot|1O-k|18|20180322|data/SEC/10-k/HD/sec_10k_18.txt
+HRL|Hormel Foods|1O-k|18|20181207|data/SEC/10-k/HRL/sec_10k_18.txt
+HST|Host Hotels & Resorts|1O-k|18|20180227|data/SEC/10-k/HST/sec_10k_18.txt
+HPQ|HP Inc.|1O-k|18|20181213|data/SEC/10-k/HPQ/sec_10k_18.txt
+HUBB|Hubbell Incorporated|1O-k|18|20180215|data/SEC/10-k/HUBB/sec_10k_18.txt
+HPP|Hudson Pacific Properties|1O-k|18|20180216|data/SEC/10-k/HPP/sec_10k_18.txt
+HUM|Humana|1O-k|18|20180216|data/SEC/10-k/HUM/sec_10k_18.txt
+HBAN|Huntington Bancshares|1O-k|18|20180216|data/SEC/10-k/HBAN/sec_10k_18.txt
+HII|Huntington Ingalls Industries|1O-k|18|20180215|data/SEC/10-k/HII/sec_10k_18.txt
+HUN|Huntsman Corporation|1O-k|18|20180223|data/SEC/10-k/HUN/sec_10k_18.txt
+H|Hyatt Hotels|1O-k|18|20180215|data/SEC/10-k/H/sec_10k_18.txt
+IAC|IAC|1O-k|18|20180301|data/SEC/10-k/IAC/sec_10k_18.txt
+ICUI|ICU Medical|1O-k|18|20180316|data/SEC/10-k/ICUI/sec_10k_18.txt
+IEX|IDEX Corporation|1O-k|18|20180222|data/SEC/10-k/IEX/sec_10k_18.txt
+IDXX|Idexx Laboratories|1O-k|18|20180216|data/SEC/10-k/IDXX/sec_10k_18.txt
+ITW|Illinois Tool Works|1O-k|18|20180215|data/SEC/10-k/ITW/sec_10k_18.txt
+ILMN|Illumina|1O-k|18|20180213|data/SEC/10-k/ILMN/sec_10k_18.txt
+INCY|Incyte|1O-k|18|20180215|data/SEC/10-k/INCY/sec_10k_18.txt
+IR|Ingersoll-Rand|1O-k|18|20180212|data/SEC/10-k/IR/sec_10k_18.txt
+INGR|Ingredion|1O-k|18|20180221|data/SEC/10-k/INGR/sec_10k_18.txt
+IART|Integra Lifesciences|1O-k|18|20180301|data/SEC/10-k/IART/sec_10k_18.txt
+IBKR|Interactive Brokers|1O-k|18|20180301|data/SEC/10-k/IBKR/sec_10k_18.txt
+IP|International Paper|1O-k|18|20180222|data/SEC/10-k/IP/sec_10k_18.txt
+IPG|The Interpublic Group of Companies|1O-k|18|20180226|data/SEC/10-k/IPG/sec_10k_18.txt
+IBM|IBM|1O-k|18|20180227|data/SEC/10-k/IBM/sec_10k_18.txt
+IFF|International Flavors & Fragrances|1O-k|18|20180227|data/SEC/10-k/IFF/sec_10k_18.txt
+INTU|Intuit|1O-k|18|20180831|data/SEC/10-k/INTU/sec_10k_18.txt
+ISRG|Intuitive Surgical|1O-k|18|20180202|data/SEC/10-k/ISRG/sec_10k_18.txt
+IVZ|Invesco|1O-k|18|20180223|data/SEC/10-k/IVZ/sec_10k_18.txt
+INVH|Invitation Homes|1O-k|18|20180329|data/SEC/10-k/INVH/sec_10k_18.txt
+IONS|Ionis Pharmaceuticals|1O-k|18|20180228|data/SEC/10-k/IONS/sec_10k_18.txt
+IPGP|IPG Photonics|1O-k|18|20180228|data/SEC/10-k/IPGP/sec_10k_18.txt
+IQV|IQVIA|1O-k|18|20180216|data/SEC/10-k/IQV/sec_10k_18.txt
+HPE|Hewlett Packard Enterprise|1O-k|18|20181212|data/SEC/10-k/HPE/sec_10k_18.txt
+HXL|Hexcel|1O-k|18|20180207|data/SEC/10-k/HXL/sec_10k_18.txt
+HRC|Hill-Rom|1O-k|18|20181119|data/SEC/10-k/HRC/sec_10k_18.txt
+JBHT|J. B. Hunt|1O-k|18|20180223|data/SEC/10-k/JBHT/sec_10k_18.txt
+JBGS|JBG Smith|1O-k|18|20180312|data/SEC/10-k/JBGS/sec_10k_18.txt
+JBLU|JetBlue|1O-k|18|20180216|data/SEC/10-k/JBLU/sec_10k_18.txt
+JNJ|Johnson & Johnson|1O-k|18|20180221|data/SEC/10-k/JNJ/sec_10k_18.txt
+JCI|Johnson Controls|1O-k|18|20181120|data/SEC/10-k/JCI/sec_10k_18.txt
+JPM|JPMorgan Chase|1O-k|18|20180227|data/SEC/10-k/JPM/sec_10k_18.txt
+JNPR|Juniper Networks|1O-k|18|20180223|data/SEC/10-k/JNPR/sec_10k_18.txt
+KAR|Kar Auction Services|1O-k|18|20180221|data/SEC/10-k/KAR/sec_10k_18.txt
+K|Kellogg's|1O-k|18|20180220|data/SEC/10-k/K/sec_10k_18.txt
+KEY|Keycorp|1O-k|18|20180226|data/SEC/10-k/KEY/sec_10k_18.txt
+KEYS|Keysight Technologies|1O-k|18|20181218|data/SEC/10-k/KEYS/sec_10k_18.txt
+KMB|Kimberly Clark|1O-k|18|20180208|data/SEC/10-k/KMB/sec_10k_18.txt
+KIM|Kimco Realty|1O-k|18|20180223|data/SEC/10-k/KIM/sec_10k_18.txt
+KMI|Kinder Morgan|1O-k|18|20180209|data/SEC/10-k/KMI/sec_10k_18.txt
+KEX|Kirby Corporation|1O-k|18|20180226|data/SEC/10-k/KEX/sec_10k_18.txt
+KLAC|KLA-Tencor|1O-k|18|20180806|data/SEC/10-k/KLAC/sec_10k_18.txt
+KNX|Knight-Swift|1O-k|18|20180301|data/SEC/10-k/KNX/sec_10k_18.txt
+KSS|Kohl's|1O-k|18|20180323|data/SEC/10-k/KSS/sec_10k_18.txt
+KOS|Kosmos Energy|1O-k|18|20180226|data/SEC/10-k/KOS/sec_10k_18.txt
+KR|Kroger|1O-k|18|20180418|data/SEC/10-k/KR/sec_10k_18.txt
+LB|L Brands|1O-k|18|20180323|data/SEC/10-k/LB/sec_10k_18.txt
+LHX|L3Harris Technologies|1O-k|18|20180827|data/SEC/10-k/LHX/sec_10k_18.txt
+LH|LabCorp|1O-k|18|20180227|data/SEC/10-k/LH/sec_10k_18.txt
+LRCX|Lam Research|1O-k|18|20180814|data/SEC/10-k/LRCX/sec_10k_18.txt
+LSTR|Landstar System|1O-k|18|20180223|data/SEC/10-k/LSTR/sec_10k_18.txt
+LVS|Las Vegas Sands|1O-k|18|20180223|data/SEC/10-k/LVS/sec_10k_18.txt
+LAZ|Lazard|1O-k|18|20180227|data/SEC/10-k/LAZ/sec_10k_18.txt
+LM|Legg Mason|1O-k|18|20180530|data/SEC/10-k/LM/sec_10k_18.txt
+LEG|Leggett & Platt|1O-k|18|20180222|data/SEC/10-k/LEG/sec_10k_18.txt
+LDOS|Leidos Holdings|1O-k|18|20180223|data/SEC/10-k/LDOS/sec_10k_18.txt
+LII|Lennox International|1O-k|18|20180216|data/SEC/10-k/LII/sec_10k_18.txt
+IRM|Iron Mountain|1O-k|18|20180216|data/SEC/10-k/IRM/sec_10k_18.txt
+ITT|ITT Inc.|1O-k|18|20180216|data/SEC/10-k/ITT/sec_10k_18.txt
+JBL|Jabil|1O-k|18|20181019|data/SEC/10-k/JBL/sec_10k_18.txt
+LLY|Eli Lilly and Company|1O-k|18|20180220|data/SEC/10-k/LLY/sec_10k_18.txt
+LECO|Lincoln Electric|1O-k|18|20180227|data/SEC/10-k/LECO/sec_10k_18.txt
+LNC|Lincoln National Corporation|1O-k|18|20180222|data/SEC/10-k/LNC/sec_10k_18.txt
+LFUS|Littelfuse|1O-k|18|20180223|data/SEC/10-k/LFUS/sec_10k_18.txt
+LKQ|LKQ|1O-k|18|20180228|data/SEC/10-k/LKQ/sec_10k_18.txt
+LMT|Lockheed Martin|1O-k|18|20180216|data/SEC/10-k/LMT/sec_10k_18.txt
+L|Loews Corporation|1O-k|18|20180215|data/SEC/10-k/L/sec_10k_18.txt
+LOGM|Logmein|1O-k|18|20180220|data/SEC/10-k/LOGM/sec_10k_18.txt
+LOW|Lowe's|1O-k|18|20180402|data/SEC/10-k/LOW/sec_10k_18.txt
+LPLA|LPL Financial|1O-k|18|20180227|data/SEC/10-k/LPLA/sec_10k_18.txt
+LULU|Lululemon Athletica|1O-k|18|20180327|data/SEC/10-k/LULU/sec_10k_18.txt
+LYB|LyondellBasell|1O-k|18|20180222|data/SEC/10-k/LYB/sec_10k_18.txt
+MTB|M&T Bank|1O-k|18|20180222|data/SEC/10-k/MTB/sec_10k_18.txt
+MAC|Macerich|1O-k|18|20180430|data/SEC/10-k/MAC/sec_10k_18.txt
+MIC|Macquarie Infrastructure Corporation|1O-k|18|20180221|data/SEC/10-k/MIC/sec_10k_18.txt
+M|Macy's|1O-k|18|20180404|data/SEC/10-k/M/sec_10k_18.txt
+MSG|Madison Square Garden|1O-k|18|20180817|data/SEC/10-k/MSG/sec_10k_18.txt
+MAN|ManpowerGroup|1O-k|18|20180223|data/SEC/10-k/MAN/sec_10k_18.txt
+MRO|Marathon Oil|1O-k|18|20180222|data/SEC/10-k/MRO/sec_10k_18.txt
+MPC|Marathon Petroleum|1O-k|18|20180228|data/SEC/10-k/MPC/sec_10k_18.txt
+MKL|Markel Corporation|1O-k|18|20180223|data/SEC/10-k/MKL/sec_10k_18.txt
+MAR|Marriott International|1O-k|18|20180215|data/SEC/10-k/MAR/sec_10k_18.txt
+MMC|Marsh & McLennan Companies|1O-k|18|20180222|data/SEC/10-k/MMC/sec_10k_18.txt
+MRVL|Marvell Technology|1O-k|18|20180329|data/SEC/10-k/MRVL/sec_10k_18.txt
+MAS|Masco|1O-k|18|20180208|data/SEC/10-k/MAS/sec_10k_18.txt
+MASI|Masimo|1O-k|18|20180228|data/SEC/10-k/MASI/sec_10k_18.txt
+MA|Mastercard|1O-k|18|20180214|data/SEC/10-k/MA/sec_10k_18.txt
+MTCH|Match Group|1O-k|18|20180301|data/SEC/10-k/MTCH/sec_10k_18.txt
+MXIM|Maxim Integrated|1O-k|18|20180817|data/SEC/10-k/MXIM/sec_10k_18.txt
+MCD|McDonald's|1O-k|18|20180223|data/SEC/10-k/MCD/sec_10k_18.txt
+MCK|McKesson|1O-k|18|20180524|data/SEC/10-k/MCK/sec_10k_18.txt
+MDU|MDU Resources|1O-k|18|20180223|data/SEC/10-k/MDU/sec_10k_18.txt
+MD|Mednax|1O-k|18|20180214|data/SEC/10-k/MD/sec_10k_18.txt
+MDT|Medtronic|1O-k|18|20180622|data/SEC/10-k/MDT/sec_10k_18.txt
+MRK|Merck & Co|1O-k|18|20180227|data/SEC/10-k/MRK/sec_10k_18.txt
+LPT|Liberty Property Trust|1O-k|18|20180301|data/SEC/10-k/LPT/sec_10k_18.txt
+LSXMA|Liberty Sirius XM Series A|1O-k|18|20180301|data/SEC/10-k/LSXMA/sec_10k_18.txt
+LSXMK|Liberty Sirius XM Series C|1O-k|18|20180301|data/SEC/10-k/LSXMK/sec_10k_18.txt
+LSI|Life Storage|1O-k|18|20180227|data/SEC/10-k/LSI/sec_10k_18.txt
+CPRI|Capri Holdings|1O-k|18|20180530|data/SEC/10-k/CPRI/sec_10k_18.txt
+MIK|The Michaels Companies|1O-k|18|20180322|data/SEC/10-k/MIK/sec_10k_18.txt
+MCHP|Microchip Technology|1O-k|18|20180518|data/SEC/10-k/MCHP/sec_10k_18.txt
+MU|Micron Technology|1O-k|18|20181015|data/SEC/10-k/MU/sec_10k_18.txt
+MSFT|Microsoft|1O-k|18|20180803|data/SEC/10-k/MSFT/sec_10k_18.txt
+MIDD|Middleby Corporation|1O-k|18|20180228|data/SEC/10-k/MIDD/sec_10k_18.txt
+MKSI|MKS Instruments|1O-k|18|20180228|data/SEC/10-k/MKSI/sec_10k_18.txt
+MHK|Mohawk Industries|1O-k|18|20180228|data/SEC/10-k/MHK/sec_10k_18.txt
+MOH|Molina Healthcare|1O-k|18|20180301|data/SEC/10-k/MOH/sec_10k_18.txt
+TAP|Molson Coors Brewing|1O-k|18|20180214|data/SEC/10-k/TAP/sec_10k_18.txt
+MDLZ|Mondelez International|1O-k|18|20180209|data/SEC/10-k/MDLZ/sec_10k_18.txt
+MPWR|Monolithic Power Systems|1O-k|18|20180301|data/SEC/10-k/MPWR/sec_10k_18.txt
+MNST|Monster Beverage|1O-k|18|20180301|data/SEC/10-k/MNST/sec_10k_18.txt
+MCO|Moody's Corporation|1O-k|18|20180227|data/SEC/10-k/MCO/sec_10k_18.txt
+MS|Morgan Stanley|1O-k|18|20180227|data/SEC/10-k/MS/sec_10k_18.txt
+MORN|Morningstar, Inc.|1O-k|18|20180301|data/SEC/10-k/MORN/sec_10k_18.txt
+MOS|The Mosaic Company|1O-k|18|20180221|data/SEC/10-k/MOS/sec_10k_18.txt
+MSI|Motorola Solutions|1O-k|18|20180216|data/SEC/10-k/MSI/sec_10k_18.txt
+MSM|MSC Industrial Direct|1O-k|18|20181030|data/SEC/10-k/MSM/sec_10k_18.txt
+MSCI|MSCI|1O-k|18|20180226|data/SEC/10-k/MSCI/sec_10k_18.txt
+NBR|Nabors Industries|1O-k|18|20180329|data/SEC/10-k/NBR/sec_10k_18.txt
+NDAQ|Nasdaq, Inc.|1O-k|18|20180228|data/SEC/10-k/NDAQ/sec_10k_18.txt
+NFG|National Fuel Gas|1O-k|18|20181116|data/SEC/10-k/NFG/sec_10k_18.txt
+NATI|National Instruments|1O-k|18|20180222|data/SEC/10-k/NATI/sec_10k_18.txt
+NOV|National Oilwell Varco|1O-k|18|20180216|data/SEC/10-k/NOV/sec_10k_18.txt
+NNN|National Retail Properties|1O-k|18|20180213|data/SEC/10-k/NNN/sec_10k_18.txt
+NAVI|Navient Corporation|1O-k|18|20180226|data/SEC/10-k/NAVI/sec_10k_18.txt
+NCR|NCR Corporation|1O-k|18|20180226|data/SEC/10-k/NCR/sec_10k_18.txt
+NKTR|Nektar Therapeutics|1O-k|18|20180301|data/SEC/10-k/NKTR/sec_10k_18.txt
+NTAP|Netapp|1O-k|18|20180619|data/SEC/10-k/NTAP/sec_10k_18.txt
+NBIX|Neurocrine Biosciences|1O-k|18|20180213|data/SEC/10-k/NBIX/sec_10k_18.txt
+NRZ|New Residential Invt|1O-k|18|20180215|data/SEC/10-k/NRZ/sec_10k_18.txt
+NYCB|New York Community Bank|1O-k|18|20180302|data/SEC/10-k/NYCB/sec_10k_18.txt
+NWL|Newell Brands|1O-k|18|20180301|data/SEC/10-k/NWL/sec_10k_18.txt
+NEU|Newmarket Corporation|1O-k|18|20180215|data/SEC/10-k/NEU/sec_10k_18.txt
+NEM|Newmont Mining|1O-k|18|20180222|data/SEC/10-k/NEM/sec_10k_18.txt
+NWSA|News Corp Class A|1O-k|18|20180815|data/SEC/10-k/NWSA/sec_10k_18.txt
+NWS|News Corp Class B|1O-k|18|20180815|data/SEC/10-k/NWS/sec_10k_18.txt
+MCY|Mercury General|1O-k|18|20180208|data/SEC/10-k/MCY/sec_10k_18.txt
+MET|Metlife|1O-k|18|20180301|data/SEC/10-k/MET/sec_10k_18.txt
+MTD|Mettler Toledo|1O-k|18|20180209|data/SEC/10-k/MTD/sec_10k_18.txt
+MFA|MFA Financial|1O-k|18|20180215|data/SEC/10-k/MFA/sec_10k_18.txt
+MGM|MGM Resorts International|1O-k|18|20180301|data/SEC/10-k/MGM/sec_10k_18.txt
+JWN|Nordstrom|1O-k|18|20180319|data/SEC/10-k/JWN/sec_10k_18.txt
+NTRS|Northern Trust|1O-k|18|20180227|data/SEC/10-k/NTRS/sec_10k_18.txt
+NCLH|Norwegian Cruise Line|1O-k|18|20180227|data/SEC/10-k/NCLH/sec_10k_18.txt
+NRG|NRG Energy|1O-k|18|20180301|data/SEC/10-k/NRG/sec_10k_18.txt
+NUS|Nu Skin Enterprises|1O-k|18|20180216|data/SEC/10-k/NUS/sec_10k_18.txt
+NUAN|Nuance Communications|1O-k|18|20181120|data/SEC/10-k/NUAN/sec_10k_18.txt
+NUE|Nucor|1O-k|18|20180228|data/SEC/10-k/NUE/sec_10k_18.txt
+NTNX|Nutanix|1O-k|18|20180924|data/SEC/10-k/NTNX/sec_10k_18.txt
+NVDA|Nvidia|1O-k|18|20180228|data/SEC/10-k/NVDA/sec_10k_18.txt
+NVR|NVR, Inc.|1O-k|18|20180214|data/SEC/10-k/NVR/sec_10k_18.txt
+ORLY|O'Reilly Auto Parts|1O-k|18|20180228|data/SEC/10-k/ORLY/sec_10k_18.txt
+OXY|Occidental Petroleum|1O-k|18|20180223|data/SEC/10-k/OXY/sec_10k_18.txt
+OGE|Oklahoma Gas & Electric|1O-k|18|20180222|data/SEC/10-k/OGE/sec_10k_18.txt
+OKTA|Okta|1O-k|18|20180312|data/SEC/10-k/OKTA/sec_10k_18.txt
+ODFL|Old Dominion Freight Line|1O-k|18|20180227|data/SEC/10-k/ODFL/sec_10k_18.txt
+ORI|Old Republic International|1O-k|18|20180228|data/SEC/10-k/ORI/sec_10k_18.txt
+OLN|Olin Corporation|1O-k|18|20180226|data/SEC/10-k/OLN/sec_10k_18.txt
+OHI|Omega Healthcare Investors|1O-k|18|20180223|data/SEC/10-k/OHI/sec_10k_18.txt
+OMC|Omnicom Group|1O-k|18|20180215|data/SEC/10-k/OMC/sec_10k_18.txt
+ON|ON Semiconductor|1O-k|18|20180221|data/SEC/10-k/ON/sec_10k_18.txt
+OMF|OneMain Financial|1O-k|18|20180221|data/SEC/10-k/OMF/sec_10k_18.txt
+OKE|Oneok|1O-k|18|20180227|data/SEC/10-k/OKE/sec_10k_18.txt
+ORCL|Oracle Corporation|1O-k|18|20180622|data/SEC/10-k/ORCL/sec_10k_18.txt
+OSK|Oshkosh Corporation|1O-k|18|20181120|data/SEC/10-k/OSK/sec_10k_18.txt
+OUT|Outfront Media|1O-k|18|20180228|data/SEC/10-k/OUT/sec_10k_18.txt
+OC|Owens Corning|1O-k|18|20180221|data/SEC/10-k/OC/sec_10k_18.txt
+OI|Owens Illinois|1O-k|18|20180214|data/SEC/10-k/OI/sec_10k_18.txt
+PCAR|Paccar|1O-k|18|20180221|data/SEC/10-k/PCAR/sec_10k_18.txt
+PKG|Packaging Corporation of America|1O-k|18|20180228|data/SEC/10-k/PKG/sec_10k_18.txt
+PACW|Pacwest Bancorp|1O-k|18|20180301|data/SEC/10-k/PACW/sec_10k_18.txt
+PANW|Palo Alto Networks|1O-k|18|20180913|data/SEC/10-k/PANW/sec_10k_18.txt
+PGRE|Paramount Group|1O-k|18|20180215|data/SEC/10-k/PGRE/sec_10k_18.txt
+PK|Park Hotels & Resorts|1O-k|18|20180301|data/SEC/10-k/PK/sec_10k_18.txt
+PH|Parker Hannifin|1O-k|18|20180824|data/SEC/10-k/PH/sec_10k_18.txt
+PE|Parsley Energy|1O-k|18|20180228|data/SEC/10-k/PE/sec_10k_18.txt
+PTEN|Patterson-UTI|1O-k|18|20180220|data/SEC/10-k/PTEN/sec_10k_18.txt
+PAYX|Paychex|1O-k|18|20180720|data/SEC/10-k/PAYX/sec_10k_18.txt
+PAYC|Paycom|1O-k|18|20180214|data/SEC/10-k/PAYC/sec_10k_18.txt
+NEE|NextEra Energy|1O-k|18|20180216|data/SEC/10-k/NEE/sec_10k_18.txt
+NLSN|Nielsen Holdings|1O-k|18|20180208|data/SEC/10-k/NLSN/sec_10k_18.txt
+NKE|Nike, Inc.|1O-k|18|20180725|data/SEC/10-k/NKE/sec_10k_18.txt
+NI|Nisource|1O-k|18|20180220|data/SEC/10-k/NI/sec_10k_18.txt
+NBL|Noble Energy|1O-k|18|20180220|data/SEC/10-k/NBL/sec_10k_18.txt
+NDSN|Nordson Corporation|1O-k|18|20181214|data/SEC/10-k/NDSN/sec_10k_18.txt
+PEP|Pepsico|1O-k|18|20180213|data/SEC/10-k/PEP/sec_10k_18.txt
+PKI|PerkinElmer|1O-k|18|20180227|data/SEC/10-k/PKI/sec_10k_18.txt
+PRGO|Perrigo|1O-k|18|20180301|data/SEC/10-k/PRGO/sec_10k_18.txt
+PFE|Pfizer|1O-k|18|20180222|data/SEC/10-k/PFE/sec_10k_18.txt
+PM|Philip Morris International|1O-k|18|20180213|data/SEC/10-k/PM/sec_10k_18.txt
+PSX|Phillips 66|1O-k|18|20180223|data/SEC/10-k/PSX/sec_10k_18.txt
+PPC|Pilgrim's Pride|1O-k|18|20180216|data/SEC/10-k/PPC/sec_10k_18.txt
+PNFP|Pinnacle Financial Partners|1O-k|18|20180228|data/SEC/10-k/PNFP/sec_10k_18.txt
+PF|Pinnacle Foods|1O-k|18|20180301|data/SEC/10-k/PF/sec_10k_18.txt
+PNW|Pinnacle West Capital|1O-k|18|20180223|data/SEC/10-k/PNW/sec_10k_18.txt
+PXD|Pioneer Natural Resources|1O-k|18|20180220|data/SEC/10-k/PXD/sec_10k_18.txt
+ESI|Element Solutions|1O-k|18|20180228|data/SEC/10-k/ESI/sec_10k_18.txt
+PNC|PNC Financial Services|1O-k|18|20180228|data/SEC/10-k/PNC/sec_10k_18.txt
+PII|Polaris Industries|1O-k|18|20180215|data/SEC/10-k/PII/sec_10k_18.txt
+POOL|Pool Corporation|1O-k|18|20180228|data/SEC/10-k/POOL/sec_10k_18.txt
+BPOP|Popular, Inc.|1O-k|18|20180301|data/SEC/10-k/BPOP/sec_10k_18.txt
+POST|Post Holdings|1O-k|18|20181116|data/SEC/10-k/POST/sec_10k_18.txt
+PPG|PPG Industries|1O-k|18|20180628|data/SEC/10-k/PPG/sec_10k_18.txt
+PPL|PPL|1O-k|18|20180222|data/SEC/10-k/PPL/sec_10k_18.txt
+PRAH|PRA Health Sciences|1O-k|18|20180222|data/SEC/10-k/PRAH/sec_10k_18.txt
+PINC|Premier|1O-k|18|20180823|data/SEC/10-k/PINC/sec_10k_18.txt
+TROW|T. Rowe Price|1O-k|18|20180216|data/SEC/10-k/TROW/sec_10k_18.txt
+PFG|Principal Financial Group|1O-k|18|20180209|data/SEC/10-k/PFG/sec_10k_18.txt
+PG|Procter & Gamble|1O-k|18|20180807|data/SEC/10-k/PG/sec_10k_18.txt
+PGR|Progressive Corporation|1O-k|18|20180227|data/SEC/10-k/PGR/sec_10k_18.txt
+PLD|Prologis|1O-k|18|20180215|data/SEC/10-k/PLD/sec_10k_18.txt
+PFPT|Proofpoint, Inc.|1O-k|18|20180223|data/SEC/10-k/PFPT/sec_10k_18.txt
+PB|Prosperity Bancshares|1O-k|18|20180228|data/SEC/10-k/PB/sec_10k_18.txt
+PRU|Prudential Financial|1O-k|18|20180216|data/SEC/10-k/PRU/sec_10k_18.txt
+PTC|PTC|1O-k|18|20181116|data/SEC/10-k/PTC/sec_10k_18.txt
+PSA|Public Storage|1O-k|18|20180301|data/SEC/10-k/PSA/sec_10k_18.txt
+PEG|Public Service Enterprise Group|1O-k|18|20180226|data/SEC/10-k/PEG/sec_10k_18.txt
+PSTG|Pure Storage|1O-k|18|20180326|data/SEC/10-k/PSTG/sec_10k_18.txt
+PVH|PVH|1O-k|18|20180330|data/SEC/10-k/PVH/sec_10k_18.txt
+QRVO|Qorvo|1O-k|18|20180521|data/SEC/10-k/QRVO/sec_10k_18.txt
+QCOM|Qualcomm|1O-k|18|20181107|data/SEC/10-k/QCOM/sec_10k_18.txt
+PWR|Quanta Services|1O-k|18|20180228|data/SEC/10-k/PWR/sec_10k_18.txt
+PBF|PBF Energy|1O-k|18|20180223|data/SEC/10-k/PBF/sec_10k_18.txt
+PEGA|Pegasystems|1O-k|18|20180226|data/SEC/10-k/PEGA/sec_10k_18.txt
+PAG|Penske Automotive Group|1O-k|18|20180222|data/SEC/10-k/PAG/sec_10k_18.txt
+PNR|Pentair|1O-k|18|20180227|data/SEC/10-k/PNR/sec_10k_18.txt
+PEN|Penumbra, Inc.|1O-k|18|20180227|data/SEC/10-k/PEN/sec_10k_18.txt
+PBCT|People's United Financial|1O-k|18|20180301|data/SEC/10-k/PBCT/sec_10k_18.txt
+RLGY|Realogy|1O-k|18|20180227|data/SEC/10-k/RLGY/sec_10k_18.txt
+RBC|Regal Beloit|1O-k|18|20180227|data/SEC/10-k/RBC/sec_10k_18.txt
+REG|Regency Centers|1O-k|18|20180227|data/SEC/10-k/REG/sec_10k_18.txt
+REGN|Regeneron Pharmaceuticals|1O-k|18|20180208|data/SEC/10-k/REGN/sec_10k_18.txt
+RF|Regions Financial|1O-k|18|20180226|data/SEC/10-k/RF/sec_10k_18.txt
+RGA|Reinsurance Group of America|1O-k|18|20180227|data/SEC/10-k/RGA/sec_10k_18.txt
+RS|Reliance Steel & Aluminum Co.|1O-k|18|20180228|data/SEC/10-k/RS/sec_10k_18.txt
+RNR|RenaissanceRe|1O-k|18|20180209|data/SEC/10-k/RNR/sec_10k_18.txt
+RSG|Republic Services|1O-k|18|20180209|data/SEC/10-k/RSG/sec_10k_18.txt
+RMD|Resmed|1O-k|18|20180817|data/SEC/10-k/RMD/sec_10k_18.txt
+RPAI|Retail Properties of America, Inc.|1O-k|18|20180214|data/SEC/10-k/RPAI/sec_10k_18.txt
+RNG|RingCentral|1O-k|18|20180226|data/SEC/10-k/RNG/sec_10k_18.txt
+RHI|Robert Half International|1O-k|18|20180220|data/SEC/10-k/RHI/sec_10k_18.txt
+ROK|Rockwell Automation|1O-k|18|20181109|data/SEC/10-k/ROK/sec_10k_18.txt
+ROL|Rollins, Inc.|1O-k|18|20180226|data/SEC/10-k/ROL/sec_10k_18.txt
+ROP|Roper Technologies|1O-k|18|20180223|data/SEC/10-k/ROP/sec_10k_18.txt
+ROST|Ross Stores|1O-k|18|20180403|data/SEC/10-k/ROST/sec_10k_18.txt
+RCL|Royal Caribbean Cruises|1O-k|18|20180221|data/SEC/10-k/RCL/sec_10k_18.txt
+RGLD|Royal Gold|1O-k|18|20180809|data/SEC/10-k/RGLD/sec_10k_18.txt
+RES|RPC, Inc.|1O-k|18|20180228|data/SEC/10-k/RES/sec_10k_18.txt
+RPM|RPM International|1O-k|18|20180723|data/SEC/10-k/RPM/sec_10k_18.txt
+RSPP|RSP Permian|1O-k|18|20180430|data/SEC/10-k/RSPP/sec_10k_18.txt
+R|Ryder|1O-k|18|20180220|data/SEC/10-k/R/sec_10k_18.txt
+SPGI|S&P Global|1O-k|18|20180209|data/SEC/10-k/SPGI/sec_10k_18.txt
+SABR|Sabre|1O-k|18|20180216|data/SEC/10-k/SABR/sec_10k_18.txt
+SAGE|Sage Therapeutics|1O-k|18|20180222|data/SEC/10-k/SAGE/sec_10k_18.txt
+CRM|Salesforce.com|1O-k|18|20180309|data/SEC/10-k/CRM/sec_10k_18.txt
+SC|Banco Santander|1O-k|18|20180228|data/SEC/10-k/SC/sec_10k_18.txt
+SRPT|Sarepta Therapeutics|1O-k|18|20180301|data/SEC/10-k/SRPT/sec_10k_18.txt
+SBAC|SBA Communications|1O-k|18|20180301|data/SEC/10-k/SBAC/sec_10k_18.txt
+HSIC|Henry Schein|1O-k|18|20180221|data/SEC/10-k/HSIC/sec_10k_18.txt
+SNDR|Schneider National|1O-k|18|20180227|data/SEC/10-k/SNDR/sec_10k_18.txt
+SCHW|Charles Schwab Corporation|1O-k|18|20180222|data/SEC/10-k/SCHW/sec_10k_18.txt
+SMG|Scotts Miracle-Gro Company|1O-k|18|20181129|data/SEC/10-k/SMG/sec_10k_18.txt
+SEB|Seaboard Corporation|1O-k|18|20180221|data/SEC/10-k/SEB/sec_10k_18.txt
+SEE|Sealed Air|1O-k|18|20180221|data/SEC/10-k/SEE/sec_10k_18.txt
+DGX|Quest Diagnostics|1O-k|18|20180223|data/SEC/10-k/DGX/sec_10k_18.txt
+QRTEA|Qurate Retail Group|1O-k|18|20180301|data/SEC/10-k/QRTEA/sec_10k_18.txt
+RL|Ralph Lauren Corporation|1O-k|18|20180523|data/SEC/10-k/RL/sec_10k_18.txt
+RRC|Range Resources|1O-k|18|20180228|data/SEC/10-k/RRC/sec_10k_18.txt
+RJF|Raymond James Financial|1O-k|18|20181121|data/SEC/10-k/RJF/sec_10k_18.txt
+RYN|Rayonier|1O-k|18|20180223|data/SEC/10-k/RYN/sec_10k_18.txt
+RTN|Raytheon|1O-k|18|20180214|data/SEC/10-k/RTN/sec_10k_18.txt
+NOW|ServiceNow|1O-k|18|20180228|data/SEC/10-k/NOW/sec_10k_18.txt
+SHW|Sherwin-Williams|1O-k|18|20180223|data/SEC/10-k/SHW/sec_10k_18.txt
+SLGN|Silgan Holdings|1O-k|18|20180301|data/SEC/10-k/SLGN/sec_10k_18.txt
+SPG|Simon Property Group|1O-k|18|20180223|data/SEC/10-k/SPG/sec_10k_18.txt
+SIX|Six Flags|1O-k|18|20180220|data/SEC/10-k/SIX/sec_10k_18.txt
+SKX|Skechers|1O-k|18|20180301|data/SEC/10-k/SKX/sec_10k_18.txt
+SLG|SL Green Realty|1O-k|18|20180223|data/SEC/10-k/SLG/sec_10k_18.txt
+SLM|Sallie Mae|1O-k|18|20180223|data/SEC/10-k/SLM/sec_10k_18.txt
+SM|SM Energy|1O-k|18|20180221|data/SEC/10-k/SM/sec_10k_18.txt
+AOS|A. O. Smith|1O-k|18|20180216|data/SEC/10-k/AOS/sec_10k_18.txt
+SJM|The J.M. Smucker Company|1O-k|18|20180618|data/SEC/10-k/SJM/sec_10k_18.txt
+SNA|Snap-on|1O-k|18|20180215|data/SEC/10-k/SNA/sec_10k_18.txt
+SON|Sonoco Products|1O-k|18|20180228|data/SEC/10-k/SON/sec_10k_18.txt
+SO|Southern Airways Express|1O-k|18|20180221|data/SEC/10-k/SO/sec_10k_18.txt
+SCCO|Southern Copper|1O-k|18|20180301|data/SEC/10-k/SCCO/sec_10k_18.txt
+SPR|Spirit Aerosystems|1O-k|18|20180209|data/SEC/10-k/SPR/sec_10k_18.txt
+SRC|Spirit Realty Capital|1O-k|18|20180223|data/SEC/10-k/SRC/sec_10k_18.txt
+SPLK|Splunk|1O-k|18|20180330|data/SEC/10-k/SPLK/sec_10k_18.txt
+SFM|Sprouts Farmers Market|1O-k|18|20180222|data/SEC/10-k/SFM/sec_10k_18.txt
+SQ|Square, Inc.|1O-k|18|20180227|data/SEC/10-k/SQ/sec_10k_18.txt
+SWK|Stanley Black & Decker|1O-k|18|20180227|data/SEC/10-k/SWK/sec_10k_18.txt
+SBUX|Starbucks|1O-k|18|20181116|data/SEC/10-k/SBUX/sec_10k_18.txt
+STWD|Starwood Property Trust|1O-k|18|20180228|data/SEC/10-k/STWD/sec_10k_18.txt
+STT|State Street Corporation|1O-k|18|20180226|data/SEC/10-k/STT/sec_10k_18.txt
+STLD|Steel Dynamics|1O-k|18|20180227|data/SEC/10-k/STLD/sec_10k_18.txt
+SRCL|Stericycle|1O-k|18|20180226|data/SEC/10-k/SRCL/sec_10k_18.txt
+STL|Sterling Bancorp|1O-k|18|20180301|data/SEC/10-k/STL/sec_10k_18.txt
+STOR|Store Capital|1O-k|18|20180223|data/SEC/10-k/STOR/sec_10k_18.txt
+SUI|Sun Communities|1O-k|18|20180222|data/SEC/10-k/SUI/sec_10k_18.txt
+STI|Suntrust Banks|1O-k|18|20180223|data/SEC/10-k/STI/sec_10k_18.txt
+SIVB|Silicon Valley Bank|1O-k|18|20180228|data/SEC/10-k/SIVB/sec_10k_18.txt
+SWCH|Switch|1O-k|18|20180402|data/SEC/10-k/SWCH/sec_10k_18.txt
+SGEN|Seattle Genetics|1O-k|18|20180215|data/SEC/10-k/SGEN/sec_10k_18.txt
+SEIC|SEI Investments Company|1O-k|18|20180222|data/SEC/10-k/SEIC/sec_10k_18.txt
+SRE|Sempra Energy|1O-k|18|20180227|data/SEC/10-k/SRE/sec_10k_18.txt
+SNH|Senior Housing Property Trust|1O-k|18|20180227|data/SEC/10-k/SNH/sec_10k_18.txt
+ST|Sensata Technologies|1O-k|18|20180201|data/SEC/10-k/ST/sec_10k_18.txt
+SCI|Service Corporation International|1O-k|18|20180214|data/SEC/10-k/SCI/sec_10k_18.txt
+SERV|ServiceMaster|1O-k|18|20180228|data/SEC/10-k/SERV/sec_10k_18.txt
+TPR|Tapestry, Inc.|1O-k|18|20180816|data/SEC/10-k/TPR/sec_10k_18.txt
+TRGP|Targa Resources|1O-k|18|20180216|data/SEC/10-k/TRGP/sec_10k_18.txt
+TGT|Target Corporation|1O-k|18|20180314|data/SEC/10-k/TGT/sec_10k_18.txt
+TCO|Taubman Centers|1O-k|18|20180227|data/SEC/10-k/TCO/sec_10k_18.txt
+TCF|TCF Financial|1O-k|18|20180228|data/SEC/10-k/TCF/sec_10k_18.txt
+TDY|Teledyne Technologies|1O-k|18|20180227|data/SEC/10-k/TDY/sec_10k_18.txt
+TFX|Teleflex|1O-k|18|20180222|data/SEC/10-k/TFX/sec_10k_18.txt
+TDS|Telephone & Data Systems|1O-k|18|20180226|data/SEC/10-k/TDS/sec_10k_18.txt
+TPX|Tempur Sealy International|1O-k|18|20180301|data/SEC/10-k/TPX/sec_10k_18.txt
+TER|Teradyne|1O-k|18|20180301|data/SEC/10-k/TER/sec_10k_18.txt
+TEX|Terex|1O-k|18|20180216|data/SEC/10-k/TEX/sec_10k_18.txt
+TSRO|Tesaro|1O-k|18|20180228|data/SEC/10-k/TSRO/sec_10k_18.txt
+TSLA|Tesla, Inc.|1O-k|18|20180223|data/SEC/10-k/TSLA/sec_10k_18.txt
+TCBI|Texas Capital Bancshares|1O-k|18|20180214|data/SEC/10-k/TCBI/sec_10k_18.txt
+TXN|Texas Instruments|1O-k|18|20180222|data/SEC/10-k/TXN/sec_10k_18.txt
+TXT|Textron|1O-k|18|20180215|data/SEC/10-k/TXT/sec_10k_18.txt
+TFSL|TFS Financial Corporation|1O-k|18|20181127|data/SEC/10-k/TFSL/sec_10k_18.txt
+CC|The Chemours Company|1O-k|18|20180216|data/SEC/10-k/CC/sec_10k_18.txt
+KHC|The Kraft Heinz Company|1O-k|18|20180216|data/SEC/10-k/KHC/sec_10k_18.txt
+WEN|The Wendy's Company|1O-k|18|20180228|data/SEC/10-k/WEN/sec_10k_18.txt
+TMO|Thermo Fisher Scientific|1O-k|18|20180228|data/SEC/10-k/TMO/sec_10k_18.txt
+THO|Thor Industries|1O-k|18|20180920|data/SEC/10-k/THO/sec_10k_18.txt
+TIF|Tiffany & Co|1O-k|18|20180316|data/SEC/10-k/TIF/sec_10k_18.txt
+TKR|Timken Company|1O-k|18|20180215|data/SEC/10-k/TKR/sec_10k_18.txt
+TJX|TJX Companies|1O-k|18|20180404|data/SEC/10-k/TJX/sec_10k_18.txt
+TOL|Toll Brothers|1O-k|18|20181220|data/SEC/10-k/TOL/sec_10k_18.txt
+TTC|Toro|1O-k|18|20181221|data/SEC/10-k/TTC/sec_10k_18.txt
+TSCO|Tractor Supply|1O-k|18|20180222|data/SEC/10-k/TSCO/sec_10k_18.txt
+TDG|Transdigm Group|1O-k|18|20181109|data/SEC/10-k/TDG/sec_10k_18.txt
+RIG|Transocean|1O-k|18|20180221|data/SEC/10-k/RIG/sec_10k_18.txt
+TRU|TransUnion|1O-k|18|20180213|data/SEC/10-k/TRU/sec_10k_18.txt
+TRV|The Travelers Companies|1O-k|18|20180215|data/SEC/10-k/TRV/sec_10k_18.txt
+THS|TreeHouse Foods|1O-k|18|20180220|data/SEC/10-k/THS/sec_10k_18.txt
+TRCO|Tribune Media|1O-k|18|20180301|data/SEC/10-k/TRCO/sec_10k_18.txt
+TRMB|Trimble|1O-k|18|20180227|data/SEC/10-k/TRMB/sec_10k_18.txt
+TRN|Trinity Industries|1O-k|18|20180222|data/SEC/10-k/TRN/sec_10k_18.txt
+TRIP|Tripadvisor|1O-k|18|20180221|data/SEC/10-k/TRIP/sec_10k_18.txt
+SYF|Synchrony Financial|1O-k|18|20180222|data/SEC/10-k/SYF/sec_10k_18.txt
+SNPS|Synopsys|1O-k|18|20181217|data/SEC/10-k/SNPS/sec_10k_18.txt
+SNV|Synovus Financial|1O-k|18|20180228|data/SEC/10-k/SNV/sec_10k_18.txt
+SYY|Sysco|1O-k|18|20180827|data/SEC/10-k/SYY/sec_10k_18.txt
+DATA|Tableau Software|1O-k|18|20180226|data/SEC/10-k/DATA/sec_10k_18.txt
+TTWO|Take-Two Interactive|1O-k|18|20180517|data/SEC/10-k/TTWO/sec_10k_18.txt
+TFC|Truist Financial|1O-k|18|20180221|data/SEC/10-k/TFC/sec_10k_18.txt
+UGI|UGI Corporation|1O-k|18|20181120|data/SEC/10-k/UGI/sec_10k_18.txt
+ULTA|Ulta Beauty|1O-k|18|20180403|data/SEC/10-k/ULTA/sec_10k_18.txt
+ULTI|Ultimate Software|1O-k|18|20180226|data/SEC/10-k/ULTI/sec_10k_18.txt
+UMPQ|Umpqua Holdings|1O-k|18|20180223|data/SEC/10-k/UMPQ/sec_10k_18.txt
+UAA|Under Armour Class A|1O-k|18|20180228|data/SEC/10-k/UAA/sec_10k_18.txt
+UA|Under Armour Class C|1O-k|18|20180228|data/SEC/10-k/UA/sec_10k_18.txt
+UNP|Union Pacific|1O-k|18|20180209|data/SEC/10-k/UNP/sec_10k_18.txt
+UAL|United Airlines Holdings|1O-k|18|20180222|data/SEC/10-k/UAL/sec_10k_18.txt
+UPS|United Parcel Service|1O-k|18|20180221|data/SEC/10-k/UPS/sec_10k_18.txt
+USM|U.S. Cellular|1O-k|18|20180226|data/SEC/10-k/USM/sec_10k_18.txt
+X|United States Steel|1O-k|18|20180221|data/SEC/10-k/X/sec_10k_18.txt
+UTHR|United Therapeutics|1O-k|18|20180221|data/SEC/10-k/UTHR/sec_10k_18.txt
+UNH|UnitedHealth Group|1O-k|18|20180213|data/SEC/10-k/UNH/sec_10k_18.txt
+UNIT|Uniti Group|1O-k|18|20180301|data/SEC/10-k/UNIT/sec_10k_18.txt
+UNVR|Univar Solutions|1O-k|18|20180228|data/SEC/10-k/UNVR/sec_10k_18.txt
+OLED|Universal Display Corporation|1O-k|18|20180222|data/SEC/10-k/OLED/sec_10k_18.txt
+UHS|Universal Health Services|1O-k|18|20180228|data/SEC/10-k/UHS/sec_10k_18.txt
+UNM|Unum|1O-k|18|20180221|data/SEC/10-k/UNM/sec_10k_18.txt
+URBN|Urban Outfitters|1O-k|18|20180402|data/SEC/10-k/URBN/sec_10k_18.txt
+USB|US Bancorp|1O-k|18|20180222|data/SEC/10-k/USB/sec_10k_18.txt
+USFD|US Foods|1O-k|18|20180227|data/SEC/10-k/USFD/sec_10k_18.txt
+VFC|VF Corporation|1O-k|18|20180228|data/SEC/10-k/VFC/sec_10k_18.txt
+MTN|Vail Resorts|1O-k|18|20180928|data/SEC/10-k/MTN/sec_10k_18.txt
+VLO|Valero Energy|1O-k|18|20180228|data/SEC/10-k/VLO/sec_10k_18.txt
+VMI|Valmont Industries|1O-k|18|20180228|data/SEC/10-k/VMI/sec_10k_18.txt
+VVV|Valvoline|1O-k|18|20181121|data/SEC/10-k/VVV/sec_10k_18.txt
+VAR|Varian Medical Systems|1O-k|18|20181126|data/SEC/10-k/VAR/sec_10k_18.txt
+VVC|Vectren|1O-k|18|20180221|data/SEC/10-k/VVC/sec_10k_18.txt
+VEEV|Veeva Systems|1O-k|18|20180330|data/SEC/10-k/VEEV/sec_10k_18.txt
+VTR|Ventas|1O-k|18|20180209|data/SEC/10-k/VTR/sec_10k_18.txt
+VER|VEREIT|1O-k|18|20180222|data/SEC/10-k/VER/sec_10k_18.txt
+VRSN|Verisign|1O-k|18|20180216|data/SEC/10-k/VRSN/sec_10k_18.txt
+VRSK|Verisk Analytics|1O-k|18|20180220|data/SEC/10-k/VRSK/sec_10k_18.txt
+VZ|Verizon Communications|1O-k|18|20180223|data/SEC/10-k/VZ/sec_10k_18.txt
+VSM|Versum Materials|1O-k|18|20181121|data/SEC/10-k/VSM/sec_10k_18.txt
+VRTX|Vertex Pharmaceuticals|1O-k|18|20180215|data/SEC/10-k/VRTX/sec_10k_18.txt
+VIA|Viacom Class A|1O-k|18|20181116|data/SEC/10-k/VIA/sec_10k_18.txt
+TWLO|Twilio|1O-k|18|20180301|data/SEC/10-k/TWLO/sec_10k_18.txt
+TWTR|Twitter|1O-k|18|20180223|data/SEC/10-k/TWTR/sec_10k_18.txt
+TYL|Tyler Technologies|1O-k|18|20180221|data/SEC/10-k/TYL/sec_10k_18.txt
+TSN|Tyson Foods|1O-k|18|20181113|data/SEC/10-k/TSN/sec_10k_18.txt
+USG|USG Corporation|1O-k|18|20180214|data/SEC/10-k/USG/sec_10k_18.txt
+UDR|UDR, Inc.|1O-k|18|20180220|data/SEC/10-k/UDR/sec_10k_18.txt
+VMC|Vulcan Materials|1O-k|18|20180227|data/SEC/10-k/VMC/sec_10k_18.txt
+WPC|W. P. Carey|1O-k|18|20180223|data/SEC/10-k/WPC/sec_10k_18.txt
+WBC|WABCO Holdings|1O-k|18|20180216|data/SEC/10-k/WBC/sec_10k_18.txt
+WAB|Wabtec|1O-k|18|20180226|data/SEC/10-k/WAB/sec_10k_18.txt
+WBA|Walgreens Boots Alliance|1O-k|18|20181011|data/SEC/10-k/WBA/sec_10k_18.txt
+WMT|Walmart|1O-k|18|20180330|data/SEC/10-k/WMT/sec_10k_18.txt
+WM|Waste Management|1O-k|18|20180215|data/SEC/10-k/WM/sec_10k_18.txt
+WSO|Watsco|1O-k|18|20180301|data/SEC/10-k/WSO/sec_10k_18.txt
+W|Wayfair|1O-k|18|20180226|data/SEC/10-k/W/sec_10k_18.txt
+WBS|Webster Bank|1O-k|18|20180301|data/SEC/10-k/WBS/sec_10k_18.txt
+WEC|WEC Energy Group|1O-k|18|20180228|data/SEC/10-k/WEC/sec_10k_18.txt
+WRI|Weingarten Realty|1O-k|18|20180228|data/SEC/10-k/WRI/sec_10k_18.txt
+WBT|Welbilt|1O-k|18|20181120|data/SEC/10-k/WBT/sec_10k_18.txt
+WCG|WellCare|1O-k|18|20180216|data/SEC/10-k/WCG/sec_10k_18.txt
+WFC|Wells Fargo|1O-k|18|20180301|data/SEC/10-k/WFC/sec_10k_18.txt
+WELL|Welltower|1O-k|18|20180228|data/SEC/10-k/WELL/sec_10k_18.txt
+WCC|Wesco International|1O-k|18|20180222|data/SEC/10-k/WCC/sec_10k_18.txt
+WST|West Pharmaceutical Services|1O-k|18|20180226|data/SEC/10-k/WST/sec_10k_18.txt
+WAL|Western Alliance Bancorp|1O-k|18|20180226|data/SEC/10-k/WAL/sec_10k_18.txt
+WDC|Western Digital|1O-k|18|20180824|data/SEC/10-k/WDC/sec_10k_18.txt
+WU|Western Union|1O-k|18|20180222|data/SEC/10-k/WU/sec_10k_18.txt
+WLK|Westlake Chemical|1O-k|18|20180221|data/SEC/10-k/WLK/sec_10k_18.txt
+WRK|Westrock|1O-k|18|20181116|data/SEC/10-k/WRK/sec_10k_18.txt
+WY|Weyerhaeuser|1O-k|18|20180216|data/SEC/10-k/WY/sec_10k_18.txt
+WHR|Whirlpool|1O-k|18|20180213|data/SEC/10-k/WHR/sec_10k_18.txt
+WTM|White Mountains Insurance Group|1O-k|18|20180228|data/SEC/10-k/WTM/sec_10k_18.txt
+WLL|Whiting Petroleum Corporation|1O-k|18|20180222|data/SEC/10-k/WLL/sec_10k_18.txt
+JWA|Wiley|1O-k|18|20180629|data/SEC/10-k/JWA/sec_10k_18.txt
+WMB|Williams Companies|1O-k|18|20180222|data/SEC/10-k/WMB/sec_10k_18.txt
+WSM|Williams-Sonoma|1O-k|18|20180329|data/SEC/10-k/WSM/sec_10k_18.txt
+WLTW|Willis Towers Watson|1O-k|18|20180606|data/SEC/10-k/WLTW/sec_10k_18.txt
+WTFC|Wintrust Financial|1O-k|18|20180228|data/SEC/10-k/WTFC/sec_10k_18.txt
+WDAY|Workday, Inc.|1O-k|18|20180314|data/SEC/10-k/WDAY/sec_10k_18.txt
+WP|Worldpay|1O-k|18|20180228|data/SEC/10-k/WP/sec_10k_18.txt
+WPX|WPX Energy|1O-k|18|20180222|data/SEC/10-k/WPX/sec_10k_18.txt
+WYND|Wyndham Destinations|1O-k|18|20180220|data/SEC/10-k/WYND/sec_10k_18.txt
+VIAB|Viacom Class B|1O-k|18|20181116|data/SEC/10-k/VIAB/sec_10k_18.txt
+VICI|Vici Properties|1O-k|18|20180430|data/SEC/10-k/VICI/sec_10k_18.txt
+VIRT|Virtu Financial|1O-k|18|20180313|data/SEC/10-k/VIRT/sec_10k_18.txt
+V|Visa Inc.|1O-k|18|20181116|data/SEC/10-k/V/sec_10k_18.txt
+VC|Visteon|1O-k|18|20180222|data/SEC/10-k/VC/sec_10k_18.txt
+VMW|VMware|1O-k|18|20180329|data/SEC/10-k/VMW/sec_10k_18.txt
+VNO|Vornado Realty Trust|1O-k|18|20180212|data/SEC/10-k/VNO/sec_10k_18.txt
+VOYA|Voya Financial|1O-k|18|20180223|data/SEC/10-k/VOYA/sec_10k_18.txt
+ZAYO|Zayo Group|1O-k|18|20180920|data/SEC/10-k/ZAYO/sec_10k_18.txt
+ZBRA|Zebra Technologies|1O-k|18|20180222|data/SEC/10-k/ZBRA/sec_10k_18.txt
+ZEN|Zendesk|1O-k|18|20181105|data/SEC/10-k/ZEN/sec_10k_18.txt
+ZG|Zillow Group Class A|1O-k|18|20180215|data/SEC/10-k/ZG/sec_10k_18.txt
+Z|Zillow Group Class C|1O-k|18|20180215|data/SEC/10-k/Z/sec_10k_18.txt
+ZBH|Zimmer Biomet|1O-k|18|20180227|data/SEC/10-k/ZBH/sec_10k_18.txt
+ZION|Zions Bancorporation|1O-k|18|20180301|data/SEC/10-k/ZION/sec_10k_18.txt
+ZTS|Zoetis|1O-k|18|20180215|data/SEC/10-k/ZTS/sec_10k_18.txt
+ZNGA|Zynga|1O-k|18|20180220|data/SEC/10-k/ZNGA/sec_10k_18.txt
+WYNN|Wynn Resorts|1O-k|18|20180228|data/SEC/10-k/WYNN/sec_10k_18.txt
+XEL|Xcel Energy|1O-k|18|20180223|data/SEC/10-k/XEL/sec_10k_18.txt
+XLNX|Xilinx|1O-k|18|20180515|data/SEC/10-k/XLNX/sec_10k_18.txt
+XPO|XPO Logistics|1O-k|18|20180212|data/SEC/10-k/XPO/sec_10k_18.txt
+XYL|Xylem|1O-k|18|20180223|data/SEC/10-k/XYL/sec_10k_18.txt
+YUMC|Yum China Holdings|1O-k|18|20180227|data/SEC/10-k/YUMC/sec_10k_18.txt
+YUM|Yum! Brands|1O-k|18|20180222|data/SEC/10-k/YUM/sec_10k_18.txt

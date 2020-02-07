@@ -43,9 +43,11 @@ def get_cik_from_ticker(df):
 
 
 def add_ticker_info_to_db(path, db_path, ticker, filing_type, name):
+    if not os.path.isdir(path):
+        return False
     files = os.listdir(path)
 
-    with open(db_path, 'w', newline='') as file:
+    with open(db_path, 'a', newline='') as file:
         writer = csv.writer(file, delimiter="|")
     
         for f in files:
@@ -56,7 +58,7 @@ def add_ticker_info_to_db(path, db_path, ticker, filing_type, name):
             filing_date = data[data.find(FILING_SEARCH_START) + len(FILING_SEARCH_START) : data.find(FILING_SEARCH_END)]
             filing_date = filing_date.strip()
             writer.writerow([ticker, name, filing_type, year, filing_date, file_path])
-
+    return True
 # remove_extra_data('data/' + "AAPL" + "/", "10-K", 2018)
 error_list = []
 def get_10k_from_cik(df, year, db_path):
@@ -66,15 +68,20 @@ def get_10k_from_cik(df, year, db_path):
         try:
             name = row.Name
             print(ticker)
+            # print(time.)
             my_filings = Filing(row.CIK, filing_type=FilingType.FILING_10K, count = 2)
             my_filings.save('data/SEC/10-k/' + ticker + "/")
             remove_extra_data('data/SEC/10-k/' + ticker, "10-k")
-            add_ticker_info_to_db('data/SEC/10-k/' + ticker, db_path, ticker, "1O-k", name)
+            e = add_ticker_info_to_db('data/SEC/10-k/' + ticker, db_path, ticker, "1O-k", name)
+            if not e:
+                error_list.append(ticker)
+                print("Error : " + ticker)  
         except:
             error_list.append(ticker)
             print("Error : " + ticker)
-        time.sleep(2)
+        # time.sleep(1)
         # break
-print(error_list)
+
 df = load_csv("r_1000.csv", "|")
 get_10k_from_cik(df, 18, "data/sec_filing_date.csv")
+print(error_list)

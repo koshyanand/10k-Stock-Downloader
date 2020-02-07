@@ -39,6 +39,9 @@ def remove_extra_data(directory, fileing_type):
         sub_files = os.listdir(m_file)
         for sub_file in sub_files:
             vals = sub_file.split("-")
+            if vals[1] != "18":
+              os.remove(m_file + "/" + sub_file)
+              continue
             file_name = "sec_10k_" + str(vals[1]) + ".txt"
             os.rename(m_file + "/" + sub_file, m_file + "/" + file_name)
             shutil.move(m_file + "/" + file_name, directory + "/" + file_name)  
